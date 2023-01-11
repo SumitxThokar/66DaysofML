@@ -13,9 +13,9 @@ Within machine learning there are several different kinds of tasks or techniques
 **Reinforcement learning**: The algorithm figures out which actions to take in a situation to maximize a reward (in the form of a number) on the way to reaching a specific goal. This is a completely different approach than supervised and unsupervised learning.<br>
 
 #### Regression vs. classification<br>
-A regression model predicts continuous values. For example, regression models make predictions that answer questions like the following:
-What is the value of a house in California?<br>What is the probability that a user will click on this ad?
-<br>A classification model predicts discrete values. For example, classification models make predictions that answer questions like the following:
-Is a given email message spam or not spam?
-Is this an image of a dog, a cat, or a hamster?
+A **regression model** predicts continuous values. For example, regression models make predictions that answer questions like the following:
+1.What is the value of a house in California?<br>2.What is the probability that a user will click on this ad?
+<br>A **classification model** predicts discrete values. For example, classification models make predictions that answer questions like the following:
+1.Is a given email message spam or not spam?
+2.Is this an image of a dog, a cat, or a hamster?
 
