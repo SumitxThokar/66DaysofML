@@ -16,6 +16,6 @@ Within machine learning there are several different kinds of tasks or techniques
 A **regression model** predicts continuous values. For example, regression models make predictions that answer questions like the following:
 1.What is the value of a house in California?<br>2.What is the probability that a user will click on this ad?
 <br>A **classification model** predicts discrete values. For example, classification models make predictions that answer questions like the following:
-1.Is a given email message spam or not spam?
+1.Is a given email message spam or not spam?<br>
 2.Is this an image of a dog, a cat, or a hamster?
 
