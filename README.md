@@ -32,5 +32,13 @@ In the image above, The blue line represent predictions made by the model, the y
 The method of measuring loss in meaning fashion is loss function. The most popular loss function is Mean Squared Error (MSE).<br>
 **Mean Squared Error** is the average squared loss of every example in the dataset.
 ![MSE](https://github.com/SumitxThokar/MachineLearning/blob/main/images/mse.png)
+<br>
+## Day 3 of Learning ML.
+### Reducing Loss<br>
+Achieving optimal model performance by iteratively adjusting parameters to reduce loss. A Machine Learning model is trained by starting with an initial guess for the weights and bias and iteratively adjusting those guesses until learning the weights and bias with the lowest possible loss.
+![Reducing Loss](https://github.com/SumitxThokar/MachineLearning/blob/main/images/Iterative.png)
+### Gradient Descent
+Gradient descent is an optimization algorithm used to minimize a function by iteratively adjusting the parameters in the direction of the negative gradient of the function. It is a widely used algorithm in machine learning to find the best parameters of the model that minimize the loss. The gradient always points in the direction of steepest increase in the loss function. The gradient descent algorithm takes a step in the direction of the negative gradient in order to reduce loss as quickly as possible.
+![Gradient Descene](https://github.com/SumitxThokar/MachineLearning/blob/main/images/gd.png)
 
 
