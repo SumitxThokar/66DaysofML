@@ -39,7 +39,7 @@ Achieving optimal model performance by iteratively adjusting parameters to reduc
 ![Reducing Loss](https://github.com/SumitxThokar/MachineLearning/blob/main/images/Iterative.png)
 ### Gradient Descent
 Gradient descent is an optimization algorithm used to minimize a function by iteratively adjusting the parameters in the direction of the negative gradient of the function. It is a widely used algorithm in machine learning to find the best parameters of the model that minimize the loss. The gradient always points in the direction of steepest increase in the loss function. The gradient descent algorithm takes a step in the direction of the negative gradient in order to reduce loss as quickly as possible.
-![Gradient Descene](https://github.com/SumitxThokar/MachineLearning/blob/main/images/gd.png)
+![Gradient Descent](https://github.com/SumitxThokar/MachineLearning/blob/main/images/gd.png)
 
 ## Day 4 of #66DaysofML.
 ### Learning Rate
@@ -47,5 +47,5 @@ The Gradient Descent algorithm is a powerful tool for optimizing machine learnin
 <br> **When the Learning rate is small.**
 ![Small Learning rate](https://github.com/SumitxThokar/MachineLearning/blob/main/images/rate.png)
 <br>**What Learning rate should be like.**
-1[Good Learning rate](https://github.com/SumitxThokar/MachineLearning/blob/main/images/goodrate.png)
+![Good Learning rate](https://github.com/SumitxThokar/MachineLearning/blob/main/images/goodrate.png)
 <br>A variant of this algorithm is **Stochastic Gradient Descent** which uses random samples from the data to update the parameters.
