@@ -2,7 +2,7 @@
 ![MachineLearning](https://github.com/SumitxThokar/MachineLearning/blob/main/images/pexels-tara-winstead-8386434.jpg)
 
 ## Day 1 of #66DaysofML
-I am starting my machine learning with **Google Machine Learning Crash Course**.<br>
+:large_blue_diamond: I am starting my machine learning with **Google Machine Learning Crash Course**.<br>
 Today I learned what machine learning is, common terminology, and common components involved and types of machine learning.<br>
 ### Machine Learning
 Machine learning is part of the broader field of artificial intelligence. This field is concerned with the capability of machines to perform activities using human-like intelligence without being explictly programmed.<br>
@@ -20,7 +20,7 @@ A **regression model** predicts continuous values. For example, regression model
 - Is this an image of a dog, a cat, or a hamster?<br>
 
 ## Day 2 of #66DaysofML.
-Onto the journey of learning ML, Today I relate weights and biases in machine learning to slope and offset in line fitting, understand "loss" in general and squared loss in particular.<br>
+:large_blue_diamond: Onto the journey of learning ML, Today I relate weights and biases in machine learning to slope and offset in line fitting, understand "loss" in general and squared loss in particular.<br>
 ### Training a model
 Training a model simply means fitting labeled data(examples) into models from where the model learn good values for all weights and bias. A machine learning algorithm builds a model by observing many examples and determinines best parameters for the dataset that reduces **loss** or error in prediction. <br>
 ### Loss
@@ -34,6 +34,7 @@ The method of measuring loss in meaning fashion is loss function. The most popul
 ![MSE](https://github.com/SumitxThokar/MachineLearning/blob/main/images/mse.png)
 <br>
 ## Day 3 of #66DaysofML.
+:large_blue_diamond: On my journey of learning Learning ML. These are my finding and learnings today:
 ### Reducing Loss<br>
 Achieving optimal model performance by iteratively adjusting parameters to reduce loss. A Machine Learning model is trained by starting with an initial guess for the weights and bias and iteratively adjusting those guesses until learning the weights and bias with the lowest possible loss.
 ![Reducing Loss](https://github.com/SumitxThokar/MachineLearning/blob/main/images/Iterative.png)
@@ -43,9 +44,13 @@ Gradient descent is an optimization algorithm used to minimize a function by ite
 
 ## Day 4 of #66DaysofML.
 ### Learning Rate
-The Gradient Descent algorithm is a powerful tool for optimizing machine learning models by adjusting the parameters of the model in order to minimize the error. One of the key components of this algorithm is the **learning rate**, which is a scalar value that is multiplied by the gradient in order to determine the next point in the optimization process. For example, if the gradient magnitude is 2.5 and the learning rate is 0.01, the algorithm will move to a point that is 0.025 units away from the previous point. This small step size allows for a gradual and controlled optimization process. In addition, gradient descent can also be applied to feature sets that contain multiple features, making it a versatile algorithm for a wide range of machine learning tasks. 
+:large_blue_diamond: The Gradient Descent algorithm is a powerful tool for optimizing machine learning models by adjusting the parameters of the model in order to minimize the error. One of the key components of this algorithm is the **learning rate**, which is a scalar value that is multiplied by the gradient in order to determine the next point in the optimization process. For example, if the gradient magnitude is 2.5 and the learning rate is 0.01, the algorithm will move to a point that is 0.025 units away from the previous point. This small step size allows for a gradual and controlled optimization process. In addition, gradient descent can also be applied to feature sets that contain multiple features, making it a versatile algorithm for a wide range of machine learning tasks. 
 <br> **When the Learning rate is small.**
 ![Small Learning rate](https://github.com/SumitxThokar/MachineLearning/blob/main/images/rate.png)
 <br>**What Learning rate should be like.**
 ![Good Learning rate](https://github.com/SumitxThokar/MachineLearning/blob/main/images/goodrate.png)
 <br>A variant of this algorithm is **Stochastic Gradient Descent** which uses random samples from the data to update the parameters.
+
+## Day 5 of #66DaysofML.
+:large_blue_diamond: Today, I was introduced to TensorFlow, an open-source platform for machine learning. TensorFlow's APIs are organized in a hierarchical structure, with high-level APIs built on top of low-level APIs. As a beginner, I will be using the high-level APIs, specifically Keras, which simplifies the process of building and training machine learning models. I revisited my knowledge of NumPy and pandas to better understand the code written in tf.keras. I also became familiar with the use of Google Colab, a tool that allows for easy collaboration and code execution. One of the main objectives of the day was to learn how to use linear regression code in tf.keras. I also evaluated loss curves and practiced tuning hyperparameters to improve the performance of my model. Overall, it was a valuable experience and I look forward to continuing my learning journey with TensorFlow.
+![Summary](https://github.com/SumitxThokar/MachineLearning/blob/main/images/summarytuninghyperparameter.jpg)
