@@ -60,3 +60,14 @@ Gradient descent is an optimization algorithm used to minimize a function by ite
 In machine learning, it is important to consider the ability of a model to generalize to new, unseen data. This is known as generalization. On the other hand, overfitting occurs when a model is too complex and has learned noise from the training data, rather than the underlying pattern. An overfit model will have a low loss during training, but will perform poorly on new data.<br>
 So, how can we determine whether a model is good or not? One way is to evaluate its performance on new data. To do this, we can divide our dataset into a training set and a test set. The training set is used to fit the model, while the test set is used to evaluate the model's performance. If the model performs well on the test set, it is an indicator that the model is good.<br>
 In summary, generalization and overfitting are important concepts in machine learning. To determine whether a model is good, we can evaluate its performance on new data by using a train and test set. A good performance on the test set is an indicator of a good model.
+<br>
+## Day 7 of #66DaysofML.
+:large_blue_diamond: When it comes to building a machine learning model, one of the most important steps is dividing your data set into a training set and a test set. This is because having separate data sets for training and testing allows you to gauge the performance of your model in a more accurate and reliable way.
+<br>
+![Training and Test data](https://github.com/SumitxThokar/MachineLearning/blob/main/images/Trainingtest.jpg)
+The training set is used to train your model, and the test set is used to evaluate the performance of the model once it has been trained. The larger the training set, the better your model will learn and the more accurate it will be. This is because a larger training set provides the model with more data to learn from and generalize from.<br>
+On the other hand, the larger the test set, the more confident you can be in the performance of your model. This is because a larger test set provides a more representative sample of the data and can give you a better idea of how well your model will perform on unseen data.
+<br>
+However, it is important to keep in mind that when working with smaller data sets, you may need to use cross-validation techniques to effectively divide your data into training and test sets. Cross-validation is a statistical method that allows you to train and test your model on different subsets of your data, giving you a more robust estimate of the model's performance.
+<br>
+It is also important to note that it is never a good idea to train your model on the test data. This is because the test data is meant to be used as a way to evaluate the model's performance on unseen data, and training on this data would lead to an overestimation of the model's performance.
