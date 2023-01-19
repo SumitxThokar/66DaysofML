@@ -1,6 +1,6 @@
-# **Machine Learning**
-![MachineLearning](https://github.com/SumitxThokar/MachineLearning/blob/main/images/pexels-tara-winstead-8386434.jpg)
 
+![MachineLearning](https://github.com/SumitxThokar/MachineLearning/blob/main/images/pexels-tara-winstead-8386434.jpg)
+# **Machine Learning**
 | **Books and Resources** | **Status of Completion** |
 | ----- | -----|
 | 1. **Machine Learning Crash Course** | :writing_hand: |
