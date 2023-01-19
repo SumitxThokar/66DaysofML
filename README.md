@@ -1,6 +1,21 @@
 # **Machine Learning**
 ![MachineLearning](https://github.com/SumitxThokar/MachineLearning/blob/main/images/pexels-tara-winstead-8386434.jpg)
 
+| Books and Resources | Status of Completion |
+| ----- | -----|
+
+| 1. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) | :writing_hand: |
+| 2. [**Machine Learning From Scratch**] | :writing_hand: |
+| 3. **A Comprehensive Guide to Machine Learning** | :writing_hand: |
+| 4. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | :writing_hand: |
+<br>
+
+| **Projects** | **Status of Completion** |
+| ----- | -----|
+| 1. [**Exploratory Data Analysis on Dataset-Terrorism**](https://github.com/SumitxThokar/LetsGrowMoreProjects/blob/main/Global%20terrorism/GlobalTerrrorism.ipynb) | :white_check_mark: |
+| 2. [**Image to Pencil Sketch with Python**](https://github.com/SumitxThokar/LetsGrowMoreProjects/blob/main/Pencil%20image%20converter/Pencil_Sketch_Converter.ipynb)  |:white_check_mark: |
+| 3. [**Iris Flowers Classification ML Project**](https://github.com/SumitxThokar/LetsGrowMoreProjects/blob/main/Iris/IrisFlowerClassificationwithKNN.ipynb) | :white_check_mark: | 
+
 ## Day 1 of #66DaysofML
 :large_blue_diamond: I am starting my machine learning with **Google Machine Learning Crash Course**.<br>
 Today I learned what machine learning is, common terminology, and common components involved and types of machine learning.<br>
