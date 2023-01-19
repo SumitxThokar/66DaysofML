@@ -3,7 +3,6 @@
 
 | **Books and Resources** | **Status of Completion** |
 | ----- | -----|
-
 | 1. **Machine Learning Crash Course** | :writing_hand: |
 | 2. **Machine Learning From Scratch** | :writing_hand: |
 | 3. **A Comprehensive Guide to Machine Learning** | :writing_hand: |
