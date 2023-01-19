@@ -81,6 +81,7 @@ In machine learning, it is important to consider the ability of a model to gener
 So, how can we determine whether a model is good or not? One way is to evaluate its performance on new data. To do this, we can divide our dataset into a training set and a test set. The training set is used to fit the model, while the test set is used to evaluate the model's performance. If the model performs well on the test set, it is an indicator that the model is good.<br>
 In summary, generalization and overfitting are important concepts in machine learning. To determine whether a model is good, we can evaluate its performance on new data by using a train and test set. A good performance on the test set is an indicator of a good model.
 <br>
+
 ## Day 7 of #66DaysofML.
 - **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: When it comes to building a machine learning model, one of the most important steps is dividing your data set into a training set and a test set. This is because having separate data sets for training and testing allows you to gauge the performance of your model in a more accurate and reliable way.
@@ -93,6 +94,8 @@ However, it is important to keep in mind that when working with smaller data set
 <br>
 It is also important to note that it is never a good idea to train your model on the test data. This is because the test data is meant to be used as a way to evaluate the model's performance on unseen data, and training on this data would lead to an overestimation of the model's performance.
 <br>
+
+
 ## Day 8 of #66DaysofML.
 - **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond:**Validation set**<br>
@@ -101,9 +104,12 @@ Dividing your data into training, validation, and test sets is a common practice
 The next step is to evaluate the model on the validation set, which is a set of data that the model has not seen before. This allows you to see how well the model is performing on new data and to adjust the hyperparameters, such as the learning rate or the number of hidden layers, accordingly. Once you have found the best performing model on the validation set, you can then confirm its performance on the test set, which is a final set of unseen data. This workflow greatly reduces the chance of overfitting, which occurs when a model is overly optimized for the training data and performs poorly on new data.<br>
 ![Workflow](https://github.com/SumitxThokar/MachineLearning/blob/main/images/better_workflow.jpg)
 <br>
+
+
 ## Day 9 of #66DaysofML.
 - **Course**: **Machine Learning Crash Course** <br>
-:large_blue_diamond: In real-life scenarios, data is not always presented in a neat, organized format. Often, data comes in the form of record or protocol buffers, requiring the extraction of useful information and the creation of features through a process known as feature engineering. Unlike traditional programming, machine learning (ML) focuses on representation, and improving the quality of the features can significantly increase the performance of the model. It is estimated that 70% of an ML engineer's time is spent on this process.<br>
+:large_blue_diamond: **Feature Engineering**
+<br>In real-life scenarios, data is not always presented in a neat, organized format. Often, data comes in the form of record or protocol buffers, requiring the extraction of useful information and the creation of features through a process known as feature engineering. Unlike traditional programming, machine learning (ML) focuses on representation, and improving the quality of the features can significantly increase the performance of the model. It is estimated that 70% of an ML engineer's time is spent on this process.<br>
 ![FeatureEngineering](https://github.com/SumitxThokar/MachineLearning/blob/main/images/FeatureEng.jpg)
 Properties of good features include having clear and obvious meanings, non-zero values more than a small handful of times, not taking on magic values, not changing over time, and not having extreme outliers. In order to clean and prepare the data for machine learning, it is important to scale the feature values, handle extreme outliers, and remove or replace duplicate values, bad feature values, bad labels, and null values. The key to successful feature engineering is understanding your data, visualizing it, and transforming integer values to floating points and categorical features (strings) into numeric values.
 <br>
