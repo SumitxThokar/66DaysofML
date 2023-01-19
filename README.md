@@ -16,6 +16,7 @@
 | 3. [**Iris Flowers Classification ML Project**](https://github.com/SumitxThokar/LetsGrowMoreProjects/blob/main/Iris/IrisFlowerClassificationwithKNN.ipynb) | :white_check_mark: | 
 
 ## Day 1 of #66DaysofML
+- **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: I am starting my machine learning with **Google Machine Learning Crash Course**.<br>
 Today I learned what machine learning is, common terminology, and common components involved and types of machine learning.<br>
 ### Machine Learning
@@ -34,6 +35,7 @@ A **regression model** predicts continuous values. For example, regression model
 - Is this an image of a dog, a cat, or a hamster?<br>
 
 ## Day 2 of #66DaysofML.
+- **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: Onto the journey of learning ML, Today I relate weights and biases in machine learning to slope and offset in line fitting, understand "loss" in general and squared loss in particular.<br>
 ### Training a model
 Training a model simply means fitting labeled data(examples) into models from where the model learn good values for all weights and bias. A machine learning algorithm builds a model by observing many examples and determinines best parameters for the dataset that reduces **loss** or error in prediction. <br>
@@ -48,6 +50,7 @@ The method of measuring loss in meaning fashion is loss function. The most popul
 ![MSE](https://github.com/SumitxThokar/MachineLearning/blob/main/images/mse.png)
 <br>
 ## Day 3 of #66DaysofML.
+- **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: On my journey of learning Learning ML. These are my finding and learnings today:
 ### Reducing Loss<br>
 Achieving optimal model performance by iteratively adjusting parameters to reduce loss. A Machine Learning model is trained by starting with an initial guess for the weights and bias and iteratively adjusting those guesses until learning the weights and bias with the lowest possible loss.
@@ -57,6 +60,7 @@ Gradient descent is an optimization algorithm used to minimize a function by ite
 ![Gradient Descent](https://github.com/SumitxThokar/MachineLearning/blob/main/images/gd.png)
 
 ## Day 4 of #66DaysofML.
+- **Course**: **Machine Learning Crash Course** <br>
 ### Learning Rate
 :large_blue_diamond: The Gradient Descent algorithm is a powerful tool for optimizing machine learning models by adjusting the parameters of the model in order to minimize the error. One of the key components of this algorithm is the **learning rate**, which is a scalar value that is multiplied by the gradient in order to determine the next point in the optimization process. For example, if the gradient magnitude is 2.5 and the learning rate is 0.01, the algorithm will move to a point that is 0.025 units away from the previous point. This small step size allows for a gradual and controlled optimization process. In addition, gradient descent can also be applied to feature sets that contain multiple features, making it a versatile algorithm for a wide range of machine learning tasks. 
 <br> **When the Learning rate is small.**
@@ -66,16 +70,19 @@ Gradient descent is an optimization algorithm used to minimize a function by ite
 <br>A variant of this algorithm is **Stochastic Gradient Descent** which uses random samples from the data to update the parameters.
 
 ## Day 5 of #66DaysofML.
+- **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: Today, I was introduced to TensorFlow, an open-source platform for machine learning. TensorFlow's APIs are organized in a hierarchical structure, with high-level APIs built on top of low-level APIs. As a beginner, I will be using the high-level APIs, specifically Keras, which simplifies the process of building and training machine learning models. I revisited my knowledge of NumPy and pandas to better understand the code written in tf.keras. I also became familiar with the use of Google Colab, a tool that allows for easy collaboration and code execution. One of the main objectives of the day was to learn how to use linear regression code in tf.keras. I also evaluated loss curves and practiced tuning hyperparameters to improve the performance of my model. Overall, it was a valuable experience and I look forward to continuing my learning journey with TensorFlow.
 ![Summary](https://github.com/SumitxThokar/MachineLearning/blob/main/images/summarytuninghyperparameter.jpg)
 
 ## Day 6 of #66DaysofML.
+- **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: Today, I got to develop intuition about overfitting and got idea on how to determine whether a model is good or not.<br>
 In machine learning, it is important to consider the ability of a model to generalize to new, unseen data. This is known as generalization. On the other hand, overfitting occurs when a model is too complex and has learned noise from the training data, rather than the underlying pattern. An overfit model will have a low loss during training, but will perform poorly on new data.<br>
 So, how can we determine whether a model is good or not? One way is to evaluate its performance on new data. To do this, we can divide our dataset into a training set and a test set. The training set is used to fit the model, while the test set is used to evaluate the model's performance. If the model performs well on the test set, it is an indicator that the model is good.<br>
 In summary, generalization and overfitting are important concepts in machine learning. To determine whether a model is good, we can evaluate its performance on new data by using a train and test set. A good performance on the test set is an indicator of a good model.
 <br>
 ## Day 7 of #66DaysofML.
+- **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: When it comes to building a machine learning model, one of the most important steps is dividing your data set into a training set and a test set. This is because having separate data sets for training and testing allows you to gauge the performance of your model in a more accurate and reliable way.
 <br>
 ![Training and Test data](https://github.com/SumitxThokar/MachineLearning/blob/main/images/Trainingtest.jpg)
@@ -87,6 +94,7 @@ However, it is important to keep in mind that when working with smaller data set
 It is also important to note that it is never a good idea to train your model on the test data. This is because the test data is meant to be used as a way to evaluate the model's performance on unseen data, and training on this data would lead to an overestimation of the model's performance.
 <br>
 ## Day 8 of #66DaysofML.
+- **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond:**Validation set**<br>
 Dividing your data into training, validation, and test sets is a common practice in machine learning to ensure that the model is properly validated and generalizes well to new data. The first step in this workflow is to train the model on the training set, which allows it to learn the patterns and relationships in the data.<br>
 ![Validation set](https://github.com/SumitxThokar/MachineLearning/blob/main/images/validation_set.jpg)
@@ -94,6 +102,7 @@ The next step is to evaluate the model on the validation set, which is a set of 
 ![Workflow](https://github.com/SumitxThokar/MachineLearning/blob/main/images/better_workflow.jpg)
 <br>
 ## Day 9 of #66DaysofML.
+- **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: In real-life scenarios, data is not always presented in a neat, organized format. Often, data comes in the form of record or protocol buffers, requiring the extraction of useful information and the creation of features through a process known as feature engineering. Unlike traditional programming, machine learning (ML) focuses on representation, and improving the quality of the features can significantly increase the performance of the model. It is estimated that 70% of an ML engineer's time is spent on this process.<br>
 ![FeatureEngineering](https://github.com/SumitxThokar/MachineLearning/blob/main/images/FeatureEng.jpg)
 Properties of good features include having clear and obvious meanings, non-zero values more than a small handful of times, not taking on magic values, not changing over time, and not having extreme outliers. In order to clean and prepare the data for machine learning, it is important to scale the feature values, handle extreme outliers, and remove or replace duplicate values, bad feature values, bad labels, and null values. The key to successful feature engineering is understanding your data, visualizing it, and transforming integer values to floating points and categorical features (strings) into numeric values.
