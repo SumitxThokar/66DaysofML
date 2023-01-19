@@ -85,8 +85,7 @@ In summary, generalization and overfitting are important concepts in machine lea
 ## Day 7 of #66DaysofML.
 - **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: When it comes to building a machine learning model, one of the most important steps is dividing your data set into a training set and a test set. This is because having separate data sets for training and testing allows you to gauge the performance of your model in a more accurate and reliable way.
-<br>
-![Training and Test data](https://github.com/SumitxThokar/MachineLearning/blob/main/images/Trainingtest.jpg)
+![TrainingTest data](https://github.com/SumitxThokar/MachineLearning/blob/main/images/Trainingtest.jpg)
 <br>
 The training set is used to train your model, and the test set is used to evaluate the performance of the model once it has been trained. The larger the training set, the better your model will learn and the more accurate it will be. This is because a larger training set provides the model with more data to learn from and generalize from.<br>
 On the other hand, the larger the test set, the more confident you can be in the performance of your model. This is because a larger test set provides a more representative sample of the data and can give you a better idea of how well your model will perform on unseen data.
