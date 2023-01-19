@@ -1,14 +1,14 @@
 # **Machine Learning**
 ![MachineLearning](https://github.com/SumitxThokar/MachineLearning/blob/main/images/pexels-tara-winstead-8386434.jpg)
 
-| Books and Resources | Status of Completion |
+| **Books and Resources** | **Status of Completion** |
 | ----- | -----|
 
 | 1. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) | :writing_hand: |
 | 2. [**Machine Learning From Scratch**] | :writing_hand: |
 | 3. **A Comprehensive Guide to Machine Learning** | :writing_hand: |
 | 4. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | :writing_hand: |
-<br>
+
 
 | **Projects** | **Status of Completion** |
 | ----- | -----|
