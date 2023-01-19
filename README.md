@@ -4,7 +4,7 @@
 | **Books and Resources** | **Status of Completion** |
 | ----- | -----|
 
-| 1. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) | :writing_hand: |
+| 1. **Machine Learning Crash Course** | :writing_hand: |
 | 2. **Machine Learning From Scratch** | :writing_hand: |
 | 3. **A Comprehensive Guide to Machine Learning** | :writing_hand: |
 | 4. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | :writing_hand: |
