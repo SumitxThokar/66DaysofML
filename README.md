@@ -105,7 +105,6 @@ The next step is to evaluate the model on the validation set, which is a set of 
 ![Workflow](https://github.com/SumitxThokar/MachineLearning/blob/main/images/better_workflow.jpg)
 <br>
 
-
 ## Day 9 of #66DaysofML.
 - **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: **Feature Engineering**
@@ -114,3 +113,12 @@ The next step is to evaluate the model on the validation set, which is a set of 
 Properties of good features include having clear and obvious meanings, non-zero values more than a small handful of times, not taking on magic values, not changing over time, and not having extreme outliers. In order to clean and prepare the data for machine learning, it is important to scale the feature values, handle extreme outliers, and remove or replace duplicate values, bad feature values, bad labels, and null values. The key to successful feature engineering is understanding your data, visualizing it, and transforming integer values to floating points and categorical features (strings) into numeric values.
 <br>
 In summary, feature engineering is a crucial aspect of machine learning that requires a thorough understanding of the data, attention to detail, and a willingness to experiment with different approaches. By following best practices for data cleaning, visualization, and mapping, you can create high-quality features that will improve the performance of your machine learning model.
+
+## Day 10 of #66DaysofML.
+:large_blue_diamond: **Feature Cross** <br>
+Creating synthetic features through feature crosses can be a powerful strategy for improving the predictive abilities of machine learning models, especially when working with large data sets. <br>
+One way to implement feature crosses is through the use of **tf.feature_column** methods in TensorFlow. By representing features in different ways, such as through the use of bins, it is possible to create new, synthetic features by crossing these bins.
+<br>
+This technique can be especially useful for linear learners, which scale well to large data sets and can benefit from the added complexity provided by feature crosses. Additionally, this technique can be used in conjunction with neural networks for an even more powerful approach to learning highly complex models.
+<br>
+Overall, the use of feature crosses can be a valuable tool for any data scientist looking to improve the performance of their machine learning models.
