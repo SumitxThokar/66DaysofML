@@ -115,6 +115,7 @@ Properties of good features include having clear and obvious meanings, non-zero 
 In summary, feature engineering is a crucial aspect of machine learning that requires a thorough understanding of the data, attention to detail, and a willingness to experiment with different approaches. By following best practices for data cleaning, visualization, and mapping, you can create high-quality features that will improve the performance of your machine learning model.
 
 ## Day 10 of #66DaysofML.
+- **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: **Feature Cross** <br>
 Creating synthetic features through feature crosses can be a powerful strategy for improving the predictive abilities of machine learning models, especially when working with large data sets. <br>
 One way to implement feature crosses is through the use of **tf.feature_column** methods in TensorFlow. By representing features in different ways, such as through the use of bins, it is possible to create new, synthetic features by crossing these bins.
@@ -122,3 +123,9 @@ One way to implement feature crosses is through the use of **tf.feature_column**
 This technique can be especially useful for linear learners, which scale well to large data sets and can benefit from the added complexity provided by feature crosses. Additionally, this technique can be used in conjunction with neural networks for an even more powerful approach to learning highly complex models.
 <br>
 Overall, the use of feature crosses can be a valuable tool for any data scientist looking to improve the performance of their machine learning models.
+
+## Day 11 of #66DaysofML.
+- **Course**: **Machine Learning Crash Course** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I got to learn about Regularization: Simplicity.<br>
+**Regularization: Simplicity** <br>
+In a Generalization curve, after many iterations if the training data gradually decreases but the validation eventually goes up, the curse shows that the model is overfitting to the training data. And we can prevent these situtation by penalizing complex models,(regularization). <br>
