@@ -126,6 +126,12 @@ Overall, the use of feature crosses can be a valuable tool for any data scientis
 
 ## Day 11 of #66DaysofML.
 - **Course**: **Machine Learning Crash Course** <br>
-:large_blue_diamond: On my journey of learning Machine Learning, Today I got to learn about Regularization: Simplicity.<br>
-**Regularization: Simplicity** <br>
-In a Generalization curve, after many iterations if the training data gradually decreases but the validation eventually goes up, the curse shows that the model is overfitting to the training data. And we can prevent these situtation by penalizing complex models,(regularization). <br>
+:large_blue_diamond: **Regularization: Simplifying Your Model to Improve Generalization**
+
+When training a machine learning model, it's important to not only minimize the loss on the training data, but also ensure that the model generalizes well to new, unseen data. One way to achieve this is through regularization, a technique that aims to penalize more complex models in order to prevent overfitting.
+<br>
+One common form of regularization is L2 regularization, which adds a term to the loss function that is the sum of the squares of all the feature weights. This has the effect of "shrinking" the weights towards zero, effectively simplifying the model.
+<br>
+To see the effects of regularization, we can plot a learning curve, which shows how the model's performance on the training and validation data changes as we increase the number of iterations during training. In the case of overfitting, we will see the training loss decreasing while the validation loss increases. By adding regularization, we can observe that both the training and validation loss decrease, indicating that the model is not only fitting the training data well, but also generalizing well to new data.
+<br>
+In summary, regularization is a powerful technique that can help improve the generalization of your machine learning model by simplifying it and preventing overfitting. L2 regularization is a popular form of regularization that involves adding a term to the loss function that is the sum of the squares of the feature weights. By observing the learning curve, we can see the effects of regularization and choose the right regularization term to achieve good generalization and avoiding overfitting.
