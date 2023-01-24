@@ -142,7 +142,7 @@ In summary, regularization is a powerful technique that can help improve the gen
 **Summary** <br>
 Logistic Regression is a method for predicting the probability of a classification problem, with outputs between 0 and 1 determined by a sigmoid function. Regularization can be used to prevent overfitting by penalizing large weights (L2) or limiting the training steps/learning rate (early stopping). Evaluation metrics for classification include accuracy, precision (correct positive predictions), and recall (correctly identified positive cases). ROC curve and AUC are also used to evaluate model performance. Prediction bias can be analyzed using calibration plots. The F1-score is a harmonic mean of precision and recall.
 
-## Day 13 of #66Daysofdata
+## Day 13 of #66DaysofML.
 **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I covered topic Regularization for sparsity, L1 Regularization, L1 vs L2 Regularization. 
 ### Regularization for sparsity.
@@ -150,3 +150,13 @@ Regularization is a technique used in machine learning to prevent overfitting by
 <br>
 L1 and L2 regularization are two common forms of regularization used in machine learning. L1 regularization adds a penalty term to the cost function that is proportional to the absolute value of the parameters, while L2 regularization adds a penalty term proportional to the square of the parameters. L1 regularization tends to produce sparse models, as it tends to drive some of the parameters to zero. On the other hand, L2 regularization tends to produce models where all the parameters are small, but non-zero. In general, L1 regularization is more likely to produce sparse models, while L2 regularization is less likely to produce sparse models, but is less likely to produce overfitting. <br>
 ![l1vl2](https://github.com/SumitxThokar/MachineLearning/blob/main/images/l1vl2.jpg)
+
+## Day 14 of #66DaysofML.
+**Course**: **Machine Learning Crash Course** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, I developed intuition about neural networks particularly about hidden layers and activation functions.
+<br>
+A neural network is a type of machine learning algorithm modeled after the structure and function of the human brain. It is composed of layers of interconnected "neurons," which process and transmit information. The layers between the input and output layers are called "hidden layers." These layers allow the network to learn and represent more complex and abstract patterns in the data.
+<br>
+Activation functions are used in the neurons of a neural network to determine the output of that neuron given a set of inputs. They introduce non-linearity into the network, allowing it to learn and represent a wider range of patterns. Common activation functions include sigmoid, ReLU, and tanh.<br>
+### Playground Exercise on Neural net (hidden layers and activation functions).
+![Neural Nets ](https://github.com/SumitxThokar/MachineLearning/blob/main/images/neural.jpg)
