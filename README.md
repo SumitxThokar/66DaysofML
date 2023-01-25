@@ -162,6 +162,7 @@ Activation functions are used in the neurons of a neural network to determine th
 ![Neural Nets ](https://github.com/SumitxThokar/MachineLearning/blob/main/images/neural.jpg)
 
 ## Day 15 of #66DaysofMachineLearning.
+**Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: On my journey of Learning Machine Learning, I developed some intuition around backpropagation, backpropagation's failure cases and the most common way to regularize a neural network.<br>
 **Backpropagation** is a widely used algorithm for training neural networks. It allows for the efficient calculation of the gradients of the loss function with respect to the weights of the network, which are used to update the weights in order to minimize the loss.
 <br>
