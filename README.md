@@ -160,3 +160,13 @@ A neural network is a type of machine learning algorithm modeled after the struc
 Activation functions are used in the neurons of a neural network to determine the output of that neuron given a set of inputs. They introduce non-linearity into the network, allowing it to learn and represent a wider range of patterns. Common activation functions include sigmoid, ReLU, and tanh.<br>
 ### Playground Exercise on Neural net (hidden layers and activation functions).
 ![Neural Nets ](https://github.com/SumitxThokar/MachineLearning/blob/main/images/neural.jpg)
+
+## Day 15 of #66DaysofMachineLearning.
+:large_blue_diamond: On my journey of Learning Machine Learning, I developed some intuition around backpropagation, backpropagation's failure cases and the most common way to regularize a neural network.<br>
+**Backpropagation** is a widely used algorithm for training neural networks. It allows for the efficient calculation of the gradients of the loss function with respect to the weights of the network, which are used to update the weights in order to minimize the loss.
+<br>
+One common failure case of backpropagation is the vanishing gradient problem, where the gradients become extremely small and the network is unable to learn effectively. Another failure case is the exploding gradient problem, where the gradients become extremely large and cause the network to diverge.
+<br>
+A solution for the Dead ReLU units is Leaky ReLU activation function, which allows a small non-zero gradient when the input is negative.
+<br>
+**Dropout** is a regularization technique used in training neural networks. It randomly sets a fraction of the input units to zero during training, which helps to prevent overfitting by reducing the dependence of the output on any specific input unit.
