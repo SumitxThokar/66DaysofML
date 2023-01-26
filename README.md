@@ -161,7 +161,7 @@ Activation functions are used in the neurons of a neural network to determine th
 ### Playground Exercise on Neural net (hidden layers and activation functions).
 ![Neural Nets ](https://github.com/SumitxThokar/MachineLearning/blob/main/images/neural.jpg)
 
-## Day 15 of #66DaysofMachineLearning.
+## Day 15 of #66DaysofML.
 **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: On my journey of Learning Machine Learning, I developed some intuition around backpropagation, backpropagation's failure cases and the most common way to regularize a neural network.<br>
 **Backpropagation** is a widely used algorithm for training neural networks. It allows for the efficient calculation of the gradients of the loss function with respect to the weights of the network, which are used to update the weights in order to minimize the loss.
@@ -171,3 +171,20 @@ One common failure case of backpropagation is the vanishing gradient problem, wh
 A solution for the Dead ReLU units is Leaky ReLU activation function, which allows a small non-zero gradient when the input is negative.
 <br>
 **Dropout** is a regularization technique used in training neural networks. It randomly sets a fraction of the input units to zero during training, which helps to prevent overfitting by reducing the dependence of the output on any specific input unit.
+
+## Day 16 of ML.
+**Course**: **Machine Learning Crash Course** <br>
+:large_blue_diamond: On my journey of Learning Machine Learning, I developed an understanding of multi-class classification problems, particularly Softmax.
+### Multi-Class Neural Networks.
+A multiclass neural network is a type of machine learning model that is used to solve problems with multiple classes. It is trained to recognize and classify multiple different types of inputs, rather than just two classes as in binary classification.<br>
+**Multi-Class Neural Nets method** <br>
+**One Vs All Multi-class** <br>
+It is a method for solving multiclass problems by training a separate binary classifier for each class, where the class is classified as 1 and all other classes are classified as 0. This method is efficient with a small number of classes, but becomes less efficient as the number of classes increases.
+
+![Onevall](https://github.com/SumitxThokar/MachineLearning/blob/main/images/onevall.jpg)
+<br>
+**Softmax** <br>
+Softmax is a method for assigning decimal probabilities to each class in a multiclass problem, where the probabilities must add up to 1.0. This constraint helps the training converge more quickly. There are two options for implementing Softmax: Full Softmax, which calculates a probability for every possible class, and Candidate Sampling, which only calculates probabilities for positive labels. Full Softmax is relatively costly in terms of time and memory, while Candidate Sampling is more efficient.
+
+
+![Softmax](https://github.com/SumitxThokar/MachineLearning/blob/main/images/softmax.jpg)
