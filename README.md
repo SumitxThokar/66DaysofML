@@ -172,7 +172,7 @@ A solution for the Dead ReLU units is Leaky ReLU activation function, which allo
 <br>
 **Dropout** is a regularization technique used in training neural networks. It randomly sets a fraction of the input units to zero during training, which helps to prevent overfitting by reducing the dependence of the output on any specific input unit.
 
-## Day 16 of ML.
+## Day 16 of #66DaysofML.
 **Course**: **Machine Learning Crash Course** <br>
 :large_blue_diamond: On my journey of Learning Machine Learning, I developed an understanding of multi-class classification problems, particularly Softmax.
 ### Multi-Class Neural Networks.
