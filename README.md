@@ -188,3 +188,27 @@ Softmax is a method for assigning decimal probabilities to each class in a multi
 
 
 ![Softmax](https://github.com/SumitxThokar/MachineLearning/blob/main/images/softmax.jpg)
+
+
+## Day 17 of #66DaysofML.
+**Course**: **Machine Learning Crash Course** <br>
+:large_blue_diamond: On my journey of Learning Machine Learning, Today I developed Softmax solutions in TensorFlow.<br>
+To use Softmax in TensorFlow to classify handwritten digits, you can follow these steps:
+- Import TensorFlow and other necessary libraries.
+- Load the dataset of handwritten digits (such as MNIST) and preprocess it.
+- Define the model architecture, including the input layer, hidden layers, and output layer with a Softmax activation function.
+- Compile the model by specifying the optimizer, loss function, and metrics.
+- Train the model on the dataset.
+- Evaluate the model on a test set of images and use the Softmax output to predict the class of each image.
+
+
+![part 1](https://github.com/SumitxThokar/MachineLearning/blob/main/images/1.jpg)
+![part 2](https://github.com/SumitxThokar/MachineLearning/blob/main/images/2.jpg)
+![part 3](https://github.com/SumitxThokar/MachineLearning/blob/main/images/3.jpg)
+### Output
+![Accuracy](https://github.com/SumitxThokar/MachineLearning/blob/main/images/download.png)
+
+
+**It shows that the model has accuracy of 98%.**
+
+![OUtput](https://github.com/SumitxThokar/MachineLearning/blob/main/images/downloa2.png)
