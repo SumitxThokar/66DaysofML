@@ -207,8 +207,7 @@ To use Softmax in TensorFlow to classify handwritten digits, you can follow thes
 ![part 3](https://github.com/SumitxThokar/MachineLearning/blob/main/images/3.jpg)
 ### Output
 ![Accuracy](https://github.com/SumitxThokar/MachineLearning/blob/main/images/download.png)
-
-
+<br>
 **It shows that the model has accuracy of 98%.**
 
 ![OUtput](https://github.com/SumitxThokar/MachineLearning/blob/main/images/downloa2.png)
