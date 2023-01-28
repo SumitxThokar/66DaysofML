@@ -215,4 +215,21 @@ To use Softmax in TensorFlow to classify handwritten digits, you can follow thes
 
 ## Day 18 of #66DaysofML.
 **Course**: **Machine Learning Crash Course** <br>
-:large_blue_diamond: On my journey of Learning Machine Learning,I learned what an embedding is and what it's for, how embeddings encode semantic relation, howto use embeddings, Learn how to train meaningful embeddings (using word2vec, for example).
+:large_blue_diamond: On my journey of Learning Machine Learning, I learned what an embedding is and what it's for, how embeddings encode semantic relation, how to use embeddings and how to train meaningful embeddings (using word2vec, for example).
+
+### **Embeddings**
+In machine learning, an embedding is a way of representing data in a lower-dimensional space. This can be useful for tasks such as natural language processing and computer vision. Common techniques for creating embeddings include:<br>
+1. Word embeddings: These are used to represent words in a way that captures their meaning. One popular method for creating word embeddings is the word2vec algorithm.<br>
+2. Sentence embeddings: These are used to represent entire sentences or paragraphs. One popular method for creating sentence embeddings is the Universal Sentence Encoder.<br>
+3. Image embeddings: These are used to represent images in a way that captures their content. One popular method for creating image embeddings is the convolutional neural network (CNN).<br>
+4. Graph Embedding: These are used to represent graph data in a way that captures the structure of the graph. One popular method for creating graph embeddings is Graph Attention Network (GAT).<br>
+5. Audio Embedding: These are used to represent audio data in a way that captures the features of the audio. One popular method for creating audio embeddings is the Mel-Frequency Cepstral Coefficients (MFCCs)
+<br>
+Embeddings can be used as inputs to other machine learning models, such as neural networks, to improve their performance on tasks such as text classification and image recognition.
+
+
+![Recommendation System](https://github.com/SumitxThokar/MachineLearning/blob/main/images/recommend.jpg)
+
+
+
+
