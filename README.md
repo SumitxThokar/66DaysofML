@@ -211,3 +211,8 @@ To use Softmax in TensorFlow to classify handwritten digits, you can follow thes
 **It shows that the model has accuracy of 98%.**
 
 ![OUtput](https://github.com/SumitxThokar/MachineLearning/blob/main/images/downloa2.png)
+
+
+## Day 18 of #66DaysofML.
+**Course**: **Machine Learning Crash Course** <br>
+:large_blue_diamond: On my journey of Learning Machine Learning,I learned what an embedding is and what it's for, how embeddings encode semantic relation, howto use embeddings, Learn how to train meaningful embeddings (using word2vec, for example).
