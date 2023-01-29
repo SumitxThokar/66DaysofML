@@ -231,5 +231,10 @@ Embeddings can be used as inputs to other machine learning models, such as neura
 ![Recommendation System](https://github.com/SumitxThokar/MachineLearning/blob/main/images/recommend.jpg)
 
 
+## Day 19 of #66DaysofML.
+**Course**: **Machine Learning Crash Course** <br>
+:large_blue_diamond: On my journey of Learning Machine Learning, Today I understood the breadth of components in a production ML system, pros and cons of static and dynamic training and inference, estimated training and serving needs for real-word scenarios and understand data dependencies in production ML system.
+### **Summary**
+Machine learning systems are programs that can learn from data and make predictions without explicit programming. There are two types of training: static and dynamic. Static training uses a fixed dataset, while dynamic training updates the model as new data becomes available. Inference, the process of using a trained model to make predictions, can also be static or dynamic. Data dependencies refer to the relationship between input and output data, and how changes in one affect the other.
 
 
