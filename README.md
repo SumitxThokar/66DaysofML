@@ -237,4 +237,8 @@ Embeddings can be used as inputs to other machine learning models, such as neura
 ### **Summary**
 Machine learning systems are programs that can learn from data and make predictions without explicit programming. There are two types of training: static and dynamic. Static training uses a fixed dataset, while dynamic training updates the model as new data becomes available. Inference, the process of using a trained model to make predictions, can also be static or dynamic. Data dependencies refer to the relationship between input and output data, and how changes in one affect the other.
 
-
+## Day 20 of #66DaysofML.
+**Course**: **Machine Learning Crash Course** <br>
+:large_blue_diamond: On my journey of Learning Machine Learning, I got aware of common human biases that can inadvertently be reproduced by ML algorithms, Fairness, Types of bias, ways to identify bias and evaluating for bias.
+### Summary
+Fairness in ML refers to unbiased and impartial predictions from machine learning models regardless of personal characteristics. Types of bias include sampling, confounding, and predictive bias. Identifying bias can be done by analyzing data and examining feature engineering, and evaluating bias involves measuring the impact of predictions on different groups.
