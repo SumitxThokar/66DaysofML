@@ -242,3 +242,7 @@ Machine learning systems are programs that can learn from data and make predicti
 :large_blue_diamond: On my journey of Learning Machine Learning, I got aware of common human biases that can inadvertently be reproduced by ML algorithms, Fairness, Types of bias, ways to identify bias and evaluating for bias.
 ### Summary
 Fairness in ML refers to unbiased and impartial predictions from machine learning models regardless of personal characteristics. Types of bias include sampling, confounding, and predictive bias. Identifying bias can be done by analyzing data and examining feature engineering, and evaluating bias involves measuring the impact of predictions on different groups.
+
+## Day 21 of #66DaysofML.
+**Course**: **Machine Learning Crash Course** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I determined flawa in real-world ML model. The course discussed on two examples, one for Cancer Prediction where a model was used to predict the probability of a patient having cancer based on medical records and another for 18th Century Literature where a model was used to predict the political affiliation of authors based on the metaphorical language used. With this I have completed the ML crash course by Google. I will be continuing my ML journey with **Machine Learning from scratch**. I am excited to learn more.
