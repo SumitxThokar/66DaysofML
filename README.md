@@ -4,9 +4,9 @@
 | **Books and Resources** | **Status of Completion** |
 | ----- | -----|
 | 1. **Machine Learning Crash Course** | 🟢 |
-| 2. **Machine Learning From Scratch** | 🟡 |
+| 2. **Machine Learning From Scratch** | 🔴 |
 | 3. **A Comprehensive Guide to Machine Learning** | 🔴 |
-| 4. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | 🔴 |
+| 4. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | 🟡 |
 
 
 | **Projects** | **Status of Completion** |
@@ -245,4 +245,11 @@ Fairness in ML refers to unbiased and impartial predictions from machine learnin
 
 ## Day 21 of #66DaysofML.
 **Course**: **Machine Learning Crash Course** <br>
-:large_blue_diamond: On my journey of learning Machine Learning, Today I determined flawa in real-world ML model. The course discussed on two examples, one for Cancer Prediction where a model was used to predict the probability of a patient having cancer based on medical records and another for 18th Century Literature where a model was used to predict the political affiliation of authors based on the metaphorical language used. With this I have completed the ML crash course by Google. I will be continuing my ML journey with **Machine Learning from scratch**. I am excited to learn more.
+:large_blue_diamond: On my journey of learning Machine Learning, Today I determined flawa in real-world ML model. The course discussed on two examples, one for Cancer Prediction where a model was used to predict the probability of a patient having cancer based on medical records and another for 18th Century Literature where a model was used to predict the political affiliation of authors based on the metaphorical language used. With this I have completed the ML crash course by Google. I will be continuing my ML journey with **Hands on Machine Learning  with scikit Learn, Keras & Tensorflow**. I am excited to learn more and looking forward for tomorrow.
+
+## Day 22 of #66DaysofML.
+**Course**: **Hands on Machine Learning with scikit Learn, Keras & Tensorflow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I continued my ML journey with Hand on ML. After a detailed look at the Preface, I jumped to End-to-End Machine Learning Project. The project is California House Prediction. I fetched the data with function, load the data using pandas, summarize the data, visualized the histogram for each numerical attribute, created test and train set using train_test_split from sklearn.model_selection, visualized the geographical data using scatterplot.
+
+
+![](https://github.com/SumitxThokar/Machine_Learning_Journey/blob/main/images/scatter.jpg)  
