@@ -258,3 +258,7 @@ Fairness in ML refers to unbiased and impartial predictions from machine learnin
 ## Day 23 of #66DaysofML.
 **Course**: **Hands on Machine Learning with scikit Learn, Keras & Tensorflow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I continued working on End-to-End Machine Learning Project (California House Prediction). After splitting the dataset and I visualized a scatter matrix of their correlation where I got to know the best attributes correlated. I exprerimented with attribute combinations, prepared the data for Machine Learning Algorithms by cleaning the data, Encoding the categorial data. I also got to learn more on Feature Scaling, Transformation Pipelines. **ColumnTransformer** was new to me and which I found pretty cool.  
+
+## Day 24 of #66DaysofML.
+**Course**: **Hands on Machine Learning with scikit Learn, Keras & Tensorflow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I worked on the same machine learning project. I trained a Linear Regression model on my data and checked its accuracy. Unfortunately, the model didn't perform well and was underfitting the data. I then tried a more powerful model called DecisionTreeRegressor, but the results showed overfitting. To overcome this, I applied cross-validation to the model.
