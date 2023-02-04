@@ -261,4 +261,8 @@ Fairness in ML refers to unbiased and impartial predictions from machine learnin
 
 ## Day 24 of #66DaysofML.
 **Course**: **Hands on Machine Learning with scikit Learn, Keras & Tensorflow** <br>
-:large_blue_diamond: On my journey of learning Machine Learning, Today I worked on the same machine learning project. I trained a Linear Regression model on my data and checked its accuracy. Unfortunately, the model didn't perform well and was underfitting the data. I then tried a more powerful model called DecisionTreeRegressor, but the results showed overfitting. To overcome this, I applied cross-validation to the model.
+:large_blue_diamond: On my journey of learning Machine Learning,With meticulous precision, I fine-tuned my model by employing both Grid Search and Randomized Search. When the hyperparameter search space is extensive, it's advisable to opt for the use of RandomizedSearchCV for optimal results. Today I worked on the same machine learning project. I trained a Linear Regression model on my data and checked its accuracy. Unfortunately, the model didn't perform well and was underfitting the data. I then tried a more powerful model called DecisionTreeRegressor, but the results showed overfitting. To overcome this, I applied cross-validation to the model.
+
+## Day 25 of #66DaysofML.
+**Course**: **Hands on Machine Learning with scikit Learn, Keras & Tensorflow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning,With meticulous precision, I fine-tuned my model by employing both Grid Search and Randomized Search. When the hyperparameter search space is extensive, it's advisable to opt for the use of RandomizedSearchCV for optimal results.
