@@ -270,3 +270,7 @@ Fairness in ML refers to unbiased and impartial predictions from machine learnin
 ## Day 26 of #66DaysofML.
 **Course**: **Hands on Machine Learning with scikit Learn, Keras & Tensorflow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, After completing the previous Regression project of predicting housing price, I moved towards Classification. Classification is all about predictiong classes.The dataset used was MNIST and it was loaded using SciKit-Learn libraries. The data was then divided into two parts - training data and test data. A type of classifier called "SGD classifier" was trained to differentiate between two classes, whether the data was 5 or not.
+
+## Day 27 of #66DaysofML.
+**Course**: **Hands on Machine Learning with scikit Learn, Keras & Tensorflow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I dived more into the world of performance mearures in binary classification problems. I had the chance to work with cross-validation in classification problems. I also learned about the confusion matrix and put it into practice. I was able to implemet accuracy metrics such as precision and recall and F1-score to gain a deeper understanding of the meodel's preformance.
