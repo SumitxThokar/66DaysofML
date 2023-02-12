@@ -287,5 +287,9 @@ Fairness in ML refers to unbiased and impartial predictions from machine learnin
 :large_blue_diamond: On my journey of learning Machine Learning, Today I delved into the world of precision and recall tradeoff and discovered the importance of selecting a good balance between these two metrics. I created a precision against recall graph to visually represent this tradeoff. Additionally, I learned about the Receiver Operating Characteristic (ROC) curve and used it to plot the performance of a Random Forest Classifier. The results were impressive with a precision score of 99% and a recall score of 87%. These graphs are useful tools in understanding the tradeoff between precision and recall and can be used to help improve the performance of machine learning models.
 
 ## Day 30 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras &TensorFlow** <br>
-:large_blue_diamond: On my journey of learning Machine Learning, Today Today I learned about Multiclass Classification (which can distinguish between more than two classes), One Vs All and One Vs One strategy to train a binary classifier. Then I worked on error analysis which is a way to improve the model by analyzing the types of error the model makes.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I learned about Multiclass Classification (which can distinguish between more than two classes), One Vs All and One Vs One strategy to train a binary classifier. Then I worked on error analysis which is a way to improve the model by analyzing the types of error the model makes.
+
+## Day 31 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I gained insights on Multilabel Classification (where each instance have multiple classes) with example. In the example we create a KNeighborsClassifier instance as it supports multilabel classification. I dived further into the types of Classification and learned about Multioutput Classification.
