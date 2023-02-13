@@ -293,3 +293,8 @@ Fairness in ML refers to unbiased and impartial predictions from machine learnin
 ## Day 31 of #66DaysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I gained insights on Multilabel Classification (where each instance have multiple classes) with example. In the example we create a KNeighborsClassifier instance as it supports multilabel classification. I dived further into the types of Classification and learned about Multioutput Classification.
+
+## Day 32 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I continued my ML journey with Chapter-4 ( Training Models). I stated by looking at the Linear regression Model, one of the simplest models. I observed how the Linear Regression works closely in both linear and vectorized form. Training a model means settinf its parameters so that model best fits the training set. To measure how well or poorly the dataset are fitted, I looked at common performance measure of Regression Model i.e RMS and its equation. I got insights on the Normal Equation which is used to find the value of parameter (bias) that minimizes the cost function.
+![](https://github.com/SumitxThokar/Machine-Learning-Journey/blob/main/images/image1.jpg)
