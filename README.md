@@ -15,6 +15,7 @@
 | 2. [**Exploratory Data Analysis on Dataset-Terrorism**](https://github.com/SumitxThokar/LetsGrowMoreProjects/blob/main/Global%20terrorism/GlobalTerrrorism.ipynb) | :white_check_mark: |
 | 3. [**Image to Pencil Sketch with Python**](https://github.com/SumitxThokar/LetsGrowMoreProjects/blob/main/Pencil%20image%20converter/Pencil_Sketch_Converter.ipynb)  |:white_check_mark: |
 | 4. [**Iris Flowers Classification ML Project**](https://github.com/SumitxThokar/LetsGrowMoreProjects/blob/main/Iris/IrisFlowerClassificationwithKNN.ipynb) | :white_check_mark: | 
+| 5. [**Titanic-Machine Learning From Disaster**](https://github.com/SumitxThokar/Titanic---Machine-Learning-from-Disaster/blob/main/Titanic%20prediction/titanic.ipynb) | :white_check_mark: | 
 
 ## Day 1 of #66DaysofML
 - **Course**: **Machine Learning Crash Course** <br>
