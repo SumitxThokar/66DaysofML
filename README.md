@@ -303,3 +303,14 @@ Fairness in ML refers to unbiased and impartial predictions from machine learnin
 ## Day 33 of #66DaysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I got to revise my learnings on Gradient Descent. The main idea of Gradient Descent is to tweak parameters iteratively in order to minimize a cost function. I dived more on Gradient Descent learning how feature scaling helps GD, cost function of Linear Regression model being always convec i.e when we pick two points in the curve of the function, the two points in the curve of the function, the line segment joining them won't cut the curve meaning it has no local minimum. And lastly I implemented the concepts of GD in to lab in jupyter-notebook.
+
+## Day 34 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I delved more into Gradient Descent. I successfully implemented Linear Regression using an iterative optimization approach called Stochastic Gradient Descent.  
+Key Points:
+1. Stochastic Gradient Descent (SGD) is a type of optimization algorithm used in machine learning, which is based on the idea of picking a random instance in the training set at every step and computing the gradient based only on that single instance.
+2. The term "stochastic" means random, as opposed to "batch" gradient descent, which computes the gradient using the entire training set.
+3. SGD is faster than batch gradient descent because it only needs to consider one instance at a time, making it more computationally efficient.
+4. However, because SGD is based on random selection of instances, it is less regular than batch gradient descent. This means that the algorithm is more likely to jump out of local minima and have a better chance of finding the global minima.
+5. The downside of SGD is that it may not settle at the minimum solution, as the algorithm is always searching for a better solution. To overcome this, a learning scheduling technique can be used, which gradually decreases the learning rate over time to help the algorithm converge to the optimal solution.
+!(sgd)[https://github.com/SumitxThokar/Machine-Learning-Journey/blob/main/images/sgd.jpg]
