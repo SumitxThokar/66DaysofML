@@ -313,4 +313,4 @@ Key Points:
 3. SGD is faster than batch gradient descent because it only needs to consider one instance at a time, making it more computationally efficient.
 4. However, because SGD is based on random selection of instances, it is less regular than batch gradient descent. This means that the algorithm is more likely to jump out of local minima and have a better chance of finding the global minima.
 5. The downside of SGD is that it may not settle at the minimum solution, as the algorithm is always searching for a better solution. To overcome this, a learning scheduling technique can be used, which gradually decreases the learning rate over time to help the algorithm converge to the optimal solution.
-!(sgd)[https://github.com/SumitxThokar/Machine-Learning-Journey/blob/main/images/sgd.jpg]
+![sgd](https://github.com/SumitxThokar/Machine-Learning-Journey/blob/main/images/sgd.jpg)
