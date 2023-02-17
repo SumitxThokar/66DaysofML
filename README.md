@@ -316,3 +316,10 @@ Key Points:
 
 
 ![sgd](https://github.com/SumitxThokar/Machine-Learning-Journey/blob/main/images/sgd.jpg)
+
+## Day 35 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I delved more into Training models. I got the insights on Mini Batch Gradient Descent, Polynomial Regression and I also implemented the code using scikit-learn libraries. Mini-batch gradient descent (Mini Batch GD) is a powerful optimization technique that computes the gradient of a model's parameters on small, randomly selected subsets of training instances. And Polynomial Regression is a method where we fit a curve to the data instead of fitting a straight line.
+
+
+![](https://github.com/SumitxThokar/Machine-Learning-Journey/blob/main/images/first.png)
