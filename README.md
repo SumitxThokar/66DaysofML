@@ -327,3 +327,7 @@ Key Points:
 ## Day 36 of #66DaysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I learned about learning curves, a useful tool for evaluating whether a model is overfitting or underfitting. By plotting the model's performance on the training and validation sets, we can determine if the model is learning well or if it is struggling. I also learned that using a lower degree linear polynomial model reduces the chance of overfitting. In addition, I discovered Ridge Regression, a variation of linear regression that aims to keep model weights small by adding a regularized term to the cost function. The alpha parameter in Ridge Regression controls the degree of regularization applied to the model.
+
+## Day 37 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I learned about Lasso Regression; another regularized version of Linear Regression. Here Lasso stands for Least Absolute Shrinkage and Selection Operator. It tends to completely eliminates the weights of the least important features meaning automatically performs feature selection and outputs a sparse model. We can use Lasso regression with scikit learn from linear_model with alpha parameter.
