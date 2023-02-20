@@ -331,3 +331,7 @@ Key Points:
 ## Day 37 of #66DaysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I learned about Lasso Regression; another regularized version of Linear Regression. Here Lasso stands for Least Absolute Shrinkage and Selection Operator. It tends to completely eliminates the weights of the least important features meaning automatically performs feature selection and outputs a sparse model. We can use Lasso regression with scikit learn from linear_model with alpha parameter.
+
+## Day 38 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I learned about Elastic Net which is middle ground between Ridge Regression and Lasso Regression. Further I learned when to use which Regression. It is always best to have atleast a little bit of regularization i.e to avoid Linear Regression. We should consider using Ridge regression by default but if you think only few features are useful, It is good to use lasso or ElasticNet. Furthermore, I learned about Early Stopping which basically is to stop training as soon as the validation error reaches as minimum to regularize iterative learning algorithms like Gradient Descent.
