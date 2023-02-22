@@ -339,3 +339,10 @@ Key Points:
 ## Day 39 of #66daysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I learned what Logistic Regression is in detail and about its training and cost function. Logistic Regression is a model that estimates the probability of an event happening. The output ranges from 0 and 1. We use a cost udnciton that penalizes the model for making incorrect prediction which is called logloss and is calculated by averaging the cost over all the training data.
+
+## Day 40 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning,Today I learned about Softmax Regression and how it can be used to generalize Logistic Regression models for multi-class classification. The process involves computing the exponentials of scores and then normalizing them. Also I gained more insignts on cross entropy whihc is used for minimizing cost function. It penalizes the model when it estimates a low probability for target class. 
+
+### Implementation of Softmax Regression on scikit-learn
+![](https://github.com/SumitxThokar/66DaysofML/blob/main/images/day39.jpg)
