@@ -346,3 +346,7 @@ Key Points:
 
 ### Implementation of Softmax Regression on scikit-learn
 ![](https://github.com/SumitxThokar/66DaysofML/blob/main/images/day39.jpg)
+
+## Day 41 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today, I delved into the fascinating world of Support Vector Machines, a powerful machine learning model capable of performing linear and non-linear classification, regression, and outlier detection. With its ability to handle complex and small/medium-sized datasets, it's the go-to choice for many data scientists. However, it's worth noting that SVMs are sensitive to feature scale, and feature scaling can yield better results. I also learned about soft margin classification, which can handle noisy data but can be sensitive to outliers. In addition, I discovered that SVM models can be regularized by reducing C if they overfit the training data. Finally, I explored non-linear classification and the use of polynomial kernels in SVMs, expanding my knowledge of this powerful tool.
