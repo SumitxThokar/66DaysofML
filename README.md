@@ -354,3 +354,7 @@ Key Points:
 ## Day 42 of #66DaysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I got insights on Gaussian Redial Basis Function (RBF) Kernel and kernels in general. Gaussian RBF i shighly flexible kernel that can approximate any continious function to arbitary accuracy. It is a popular choice for nonlinear regerssion and classification tasks. It can handle large data better than Polynomial Kernels. It is very useful when underly function is unknown or highly complex especially for cases like pattern recognition. I learned to implement it using sklearn. And The main thing to consider while training model is if the model is overfitting, reduce the gamma parameter and viceversa. Furthermore, I compared teh scikitlearn classes for SVM classification where I found out that SVC class takes the longest time to train while kernal tricks are only available in the same class.
+
+## Day 43 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today, I delved deeper into the fascinating world of SVM Regression. As we know, Support Vector Machines (SVMs) are incredibly versatile as they support both classification and regression, whether the data is linear or nonlinear. I had the pleasure of implementing both Linear SVM Regression and Nonlinear Regression using Scikitlearn, which was an enriching experience.
