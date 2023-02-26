@@ -358,3 +358,8 @@ Key Points:
 ## Day 43 of #66DaysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today, I delved deeper into the fascinating world of SVM Regression. As we know, Support Vector Machines (SVMs) are incredibly versatile as they support both classification and regression, whether the data is linear or nonlinear. I had the pleasure of implementing both Linear SVM Regression and Nonlinear Regression using Scikitlearn, which was an enriching experience.
+
+
+## Day 44 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I got to learn about Decision Trees. Like SVM, Decision tree is capable of performing both classfication and regression tasks and even multioutput tasks. It is a very powerful algorithmn that can fit complex datasets. It can also be called the fundamental componenet of Random forest which is the most powerful ML algo right now. I trained Decision Tree model with Scikit-Learn using Iris dataset. I will be learning CART training algo and more about how to regularize them for next days.
