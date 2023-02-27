@@ -363,3 +363,8 @@ Key Points:
 ## Day 44 of #66DaysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I got to learn about Decision Trees. Like SVM, Decision tree is capable of performing both classfication and regression tasks and even multioutput tasks. It is a very powerful algorithmn that can fit complex datasets. It can also be called the fundamental componenet of Random forest which is the most powerful ML algo right now. I trained Decision Tree model with Scikit-Learn using Iris dataset. I will be learning CART training algo and more about how to regularize them for next days.
+
+## Day 45 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I got introduced to The CART(Classification and Regresion Tree) Training Alogrithm, Regularization Hyperparameters in Decision Trees and lastly learned how to implement regression problems using Decision Trees.
+The CART training algo is the way how Decision tree works. First it splits the training set into two using single feature(k) and threshold(tk). The purest subsets of (k,tk) is taken and the same logic is implemented recursively until it reacher the max_depth which we can set using max_depth parameter. Talking about Decision Tree if we give it freedom, the tree most of the time overfits to the training data. To minimize overfitting we can use max_depth, min_samples_leaf and other parameters. 
