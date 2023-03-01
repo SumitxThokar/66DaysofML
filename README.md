@@ -372,3 +372,7 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 46 of #66DaysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today was an interesting day as I got to learn about Ensemble Learning and Random Forests. Ensemble Learning is all predictions of group of predictors. Obviously the group of predictors will have better predictions than individual which will help to classify classes with better accuracy. The one class with highest votes is considered as the required class of an instance. Training group of Decision Tree classifier in different random subset of training set is Random Forest which is still one of the most powerful machine learning algorithm. Further more, I got introduced to voting classifiers which affregate the predicitons of each classifier and predict the class that gets most votes and they are of two types; Hard and soct voting.
+
+## Day 47 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I was introduced to Bagging and Pasting. Here same classifier is used with random subsets. In sampling we perform subsets instance with replacement and exact opposite with pasting. Only bagging allows baggin allows training instances to be sampled several time for same predictor. And lastly I implemented the learning with scikit Learn.
