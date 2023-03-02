@@ -376,3 +376,7 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 47 of #66DaysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I was introduced to Bagging and Pasting. Here same classifier is used with random subsets. In sampling we perform subsets instance with replacement and exact opposite with pasting. Only bagging allows baggin allows training instances to be sampled several time for same predictor. And lastly I implemented the learning with scikit Learn.
+
+## Day 48 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I learned about Out of Bag evaluation. Here Out of Bag means the training instances that are not trained. On average 33% of the the training instances are not trained for any classifiers. Since the predictors has not seen those instances before we can use them to evaluate evaluate without the need for validation. I implemented this learning using scikit Learn by setting **oob_score** True. We can also see the decision function for each training instance suing **oob_decision_function_**. Furthermore, I got insights on Random Pathces and Random Subspaces which is the concept of sampling the features. We can use this with **max_features** and **bootstrap_features** parameters. It is very useful when dealing with high dimension inputs like images. 
