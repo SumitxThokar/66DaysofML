@@ -384,3 +384,8 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 49 of #66DaysofML.
 **Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I gained insights on Random Forests. Random Forest is the ensemble of Decision Trees. I implemented the Random Forest using Scikit-Learn. We can increase the random more by using random thresholds for each feature. It is called Extremely Randomized Trees (Extra-Trees). And also implemented scikit learn's class ExtraTreesClassifier. Furthermore, I learned about Feature Importance. It is easy to measure the relative importance of each feature. It is very handy to get a quick understanding of what features actually matter.
+
+
+## Day 50 of #66DaysofML.
+**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I got got insights on boosting which combines several weak learners into a strong learner. I t is an iterative process where we train predictores sequentially, each trying to correct its predecessors. The most popular Boosting method is Adaboost ie Adaptive Boosting. It is handly for binary classification. It pays attention to training instances and work out on what predecssor underfits. It gives higher weights to the example which are classified wrong so that the next classifier can focus more on the difficult example( the one that are classified wrongly). I implemented it with scikit Learn where I used SAAME method which is multiclass version of AdaBoost.
