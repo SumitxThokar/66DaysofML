@@ -288,24 +288,24 @@ Fairness in ML refers to unbiased and impartial predictions from machine learnin
 :large_blue_diamond: On my journey of learning Machine Learning, Today I delved into the world of precision and recall tradeoff and discovered the importance of selecting a good balance between these two metrics. I created a precision against recall graph to visually represent this tradeoff. Additionally, I learned about the Receiver Operating Characteristic (ROC) curve and used it to plot the performance of a Random Forest Classifier. The results were impressive with a precision score of 99% and a recall score of 87%. These graphs are useful tools in understanding the tradeoff between precision and recall and can be used to help improve the performance of machine learning models.
 
 ## Day 30 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I learned about Multiclass Classification (which can distinguish between more than two classes), One Vs All and One Vs One strategy to train a binary classifier. Then I worked on error analysis which is a way to improve the model by analyzing the types of error the model makes.
 
 ## Day 31 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I gained insights on Multilabel Classification (where each instance have multiple classes) with example. In the example we create a KNeighborsClassifier instance as it supports multilabel classification. I dived further into the types of Classification and learned about Multioutput Classification.
 
 ## Day 32 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I continued my ML journey with Chapter-4 ( Training Models). I stated by looking at the Linear regression Model, one of the simplest models. I observed how the Linear Regression works closely in both linear and vectorized form. Training a model means settinf its parameters so that model best fits the training set. To measure how well or poorly the dataset are fitted, I looked at common performance measure of Regression Model i.e RMS and its equation. I got insights on the Normal Equation which is used to find the value of parameter (bias) that minimizes the cost function.
 ![](https://github.com/SumitxThokar/Machine-Learning-Journey/blob/main/images/image1.jpg)
 
 ## Day 33 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I got to revise my learnings on Gradient Descent. The main idea of Gradient Descent is to tweak parameters iteratively in order to minimize a cost function. I dived more on Gradient Descent learning how feature scaling helps GD, cost function of Linear Regression model being always convec i.e when we pick two points in the curve of the function, the two points in the curve of the function, the line segment joining them won't cut the curve meaning it has no local minimum. And lastly I implemented the concepts of GD in to lab in jupyter-notebook.
 
 ## Day 34 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I delved more into Gradient Descent. I successfully implemented Linear Regression using an iterative optimization approach called Stochastic Gradient Descent.  
 Key Points:
 1. Stochastic Gradient Descent (SGD) is a type of optimization algorithm used in machine learning, which is based on the idea of picking a random instance in the training set at every step and computing the gradient based only on that single instance.
@@ -318,78 +318,82 @@ Key Points:
 ![sgd](https://github.com/SumitxThokar/Machine-Learning-Journey/blob/main/images/sgd.jpg)
 
 ## Day 35 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I delved more into Training models. I got the insights on Mini Batch Gradient Descent, Polynomial Regression and I also implemented the code using scikit-learn libraries. Mini-batch gradient descent (Mini Batch GD) is a powerful optimization technique that computes the gradient of a model's parameters on small, randomly selected subsets of training instances. And Polynomial Regression is a method where we fit a curve to the data instead of fitting a straight line.
 
 
 ![](https://github.com/SumitxThokar/Machine-Learning-Journey/blob/main/images/first.png)
 
 ## Day 36 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I learned about learning curves, a useful tool for evaluating whether a model is overfitting or underfitting. By plotting the model's performance on the training and validation sets, we can determine if the model is learning well or if it is struggling. I also learned that using a lower degree linear polynomial model reduces the chance of overfitting. In addition, I discovered Ridge Regression, a variation of linear regression that aims to keep model weights small by adding a regularized term to the cost function. The alpha parameter in Ridge Regression controls the degree of regularization applied to the model.
 
 ## Day 37 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I learned about Lasso Regression; another regularized version of Linear Regression. Here Lasso stands for Least Absolute Shrinkage and Selection Operator. It tends to completely eliminates the weights of the least important features meaning automatically performs feature selection and outputs a sparse model. We can use Lasso regression with scikit learn from linear_model with alpha parameter.
 
 ## Day 38 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I learned about Elastic Net which is middle ground between Ridge Regression and Lasso Regression. Further I learned when to use which Regression. It is always best to have atleast a little bit of regularization i.e to avoid Linear Regression. We should consider using Ridge regression by default but if you think only few features are useful, It is good to use lasso or ElasticNet. Furthermore, I learned about Early Stopping which basically is to stop training as soon as the validation error reaches as minimum to regularize iterative learning algorithms like Gradient Descent.
 
 ## Day 39 of #66daysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I learned what Logistic Regression is in detail and about its training and cost function. Logistic Regression is a model that estimates the probability of an event happening. The output ranges from 0 and 1. We use a cost udnciton that penalizes the model for making incorrect prediction which is called logloss and is calculated by averaging the cost over all the training data.
 
 ## Day 40 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning,Today I learned about Softmax Regression and how it can be used to generalize Logistic Regression models for multi-class classification. The process involves computing the exponentials of scores and then normalizing them. Also I gained more insignts on cross entropy whihc is used for minimizing cost function. It penalizes the model when it estimates a low probability for target class. 
 
 ### Implementation of Softmax Regression on scikit-learn
 ![](https://github.com/SumitxThokar/66DaysofML/blob/main/images/day39.jpg)
 
 ## Day 41 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today, I delved into the fascinating world of Support Vector Machines, a powerful machine learning model capable of performing linear and non-linear classification, regression, and outlier detection. With its ability to handle complex and small/medium-sized datasets, it's the go-to choice for many data scientists. However, it's worth noting that SVMs are sensitive to feature scale, and feature scaling can yield better results. I also learned about soft margin classification, which can handle noisy data but can be sensitive to outliers. In addition, I discovered that SVM models can be regularized by reducing C if they overfit the training data. Finally, I explored non-linear classification and the use of polynomial kernels in SVMs, expanding my knowledge of this powerful tool.
 
 ## Day 42 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I got insights on Gaussian Redial Basis Function (RBF) Kernel and kernels in general. Gaussian RBF i shighly flexible kernel that can approximate any continious function to arbitary accuracy. It is a popular choice for nonlinear regerssion and classification tasks. It can handle large data better than Polynomial Kernels. It is very useful when underly function is unknown or highly complex especially for cases like pattern recognition. I learned to implement it using sklearn. And The main thing to consider while training model is if the model is overfitting, reduce the gamma parameter and viceversa. Furthermore, I compared teh scikitlearn classes for SVM classification where I found out that SVC class takes the longest time to train while kernal tricks are only available in the same class.
 
 ## Day 43 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today, I delved deeper into the fascinating world of SVM Regression. As we know, Support Vector Machines (SVMs) are incredibly versatile as they support both classification and regression, whether the data is linear or nonlinear. I had the pleasure of implementing both Linear SVM Regression and Nonlinear Regression using Scikitlearn, which was an enriching experience.
 
 
 ## Day 44 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I got to learn about Decision Trees. Like SVM, Decision tree is capable of performing both classfication and regression tasks and even multioutput tasks. It is a very powerful algorithmn that can fit complex datasets. It can also be called the fundamental componenet of Random forest which is the most powerful ML algo right now. I trained Decision Tree model with Scikit-Learn using Iris dataset. I will be learning CART training algo and more about how to regularize them for next days.
 
 ## Day 45 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I got introduced to The CART(Classification and Regresion Tree) Training Alogrithm, Regularization Hyperparameters in Decision Trees and lastly learned how to implement regression problems using Decision Trees.
 The CART training algo is the way how Decision tree works. First it splits the training set into two using single feature(k) and threshold(tk). The purest subsets of (k,tk) is taken and the same logic is implemented recursively until it reacher the max_depth which we can set using max_depth parameter. Talking about Decision Tree if we give it freedom, the tree most of the time overfits to the training data. To minimize overfitting we can use max_depth, min_samples_leaf and other parameters. 
 
 ## Day 46 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today was an interesting day as I got to learn about Ensemble Learning and Random Forests. Ensemble Learning is all predictions of group of predictors. Obviously the group of predictors will have better predictions than individual which will help to classify classes with better accuracy. The one class with highest votes is considered as the required class of an instance. Training group of Decision Tree classifier in different random subset of training set is Random Forest which is still one of the most powerful machine learning algorithm. Further more, I got introduced to voting classifiers which affregate the predicitons of each classifier and predict the class that gets most votes and they are of two types; Hard and soct voting.
 
 ## Day 47 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I was introduced to Bagging and Pasting. Here same classifier is used with random subsets. In sampling we perform subsets instance with replacement and exact opposite with pasting. Only bagging allows baggin allows training instances to be sampled several time for same predictor. And lastly I implemented the learning with scikit Learn.
 
 ## Day 48 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I learned about Out of Bag evaluation. Here Out of Bag means the training instances that are not trained. On average 33% of the the training instances are not trained for any classifiers. Since the predictors has not seen those instances before we can use them to evaluate evaluate without the need for validation. I implemented this learning using scikit Learn by setting **oob_score** True. We can also see the decision function for each training instance suing **oob_decision_function_**. Furthermore, I got insights on Random Pathces and Random Subspaces which is the concept of sampling the features. We can use this with **max_features** and **bootstrap_features** parameters. It is very useful when dealing with high dimension inputs like images. 
 
 ## Day 49 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I gained insights on Random Forests. Random Forest is the ensemble of Decision Trees. I implemented the Random Forest using Scikit-Learn. We can increase the random more by using random thresholds for each feature. It is called Extremely Randomized Trees (Extra-Trees). And also implemented scikit learn's class ExtraTreesClassifier. Furthermore, I learned about Feature Importance. It is easy to measure the relative importance of each feature. It is very handy to get a quick understanding of what features actually matter.
 
 
 ## Day 50 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
-:large_blue_diamond: On my journey of learning Machine Learning, Today I got got insights on boosting which combines several weak learners into a strong learner. I t is an iterative process where we train predictores sequentially, each trying to correct its predecessors. The most popular Boosting method is Adaboost ie Adaptive Boosting. It is handly for binary classification. It pays attention to training instances and work out on what predecssor underfits. It gives higher weights to the example which are classified wrong so that the next classifier can focus more on the difficult example( the one that are classified wrongly). I implemented it with scikit Learn where I used SAAME method which is multiclass version of AdaBoost.
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I got insights on boosting which combines several weak learners into a strong learner. I t is an iterative process where we train predictores sequentially, each trying to correct its predecessors. The most popular Boosting method is Adaboost ie Adaptive Boosting. It is handly for binary classification. It pays attention to training instances and work out on what predecssor underfits. It gives higher weights to the example which are classified wrong so that the next classifier can focus more on the difficult example( the one that are classified wrongly). I implemented it with scikit Learn where I used SAAME method which is multiclass version of AdaBoost.
 
 ## Day 51 of #66DaysofML.
-**Course**:**Hands on Machine Leraning with scikit Learn, Keras & TensorFlow** <br>
-:large_blue_diamond: On my journey of learning Machine Learning, Today I more on boosting methods. I got to learn about Gradient Boosting, XGBoost and Stacking. Gradient Boosting, similar to adaboost instead it tries to fit the new predictors to the residual errors made by previous predictor. XGBoost is a scalable, distributed gradient-boosted decision tree (GBDT) machine learning library. In stacking insted of using trival functions (hard voting) to aggragate the predictions of all predictors we train a model to perform this aggrigation. Unfortunately Scikit Learn doesnot support stacking. We can use brew which is an opensource library to implement it.
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I learned more on boosting methods. I got to learn about Gradient Boosting, XGBoost and Stacking. Gradient Boosting, similar to adaboost instead it tries to fit the new predictors to the residual errors made by previous predictor. XGBoost is a scalable, distributed gradient-boosted decision tree (GBDT) machine learning library. In stacking instead of using trival functions (hard voting) to aggragate the predictions of all predictors we train a model to perform this aggrigation. Unfortunately Scikit Learn doesnot support stacking. We can use brew which is an opensource library to implement it.
+
+## Day 52 of #66DaysofML.
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I gained insights on Dimensionality Reduction, Dimensionality Reduction approaches like Projection and Manifold Learning. Projection is the all about reducing number of dimension in dataset by projecting into lower dimensional spaces. It simplify complex data and can improve efficiency. But it may lead to loss of information in dataset leading reduce in accuracy. Wrong choice in projection method leads to suboptimal result. Manifold learning is about reducing the number of features or variables in a dataset while retaining as much of the relevant information as possible where we have high dim dataset.
