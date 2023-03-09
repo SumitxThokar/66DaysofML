@@ -398,6 +398,10 @@ The CART training algo is the way how Decision tree works. First it splits the t
 **Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I gained insights on Dimensionality Reduction, Dimensionality Reduction approaches like Projection and Manifold Learning. Projection is the all about reducing number of dimension in dataset by projecting into lower dimensional spaces. It simplify complex data and can improve efficiency. But it may lead to loss of information in dataset leading reduce in accuracy. Wrong choice in projection method leads to suboptimal result. Manifold learning is about reducing the number of features or variables in a dataset while retaining as much of the relevant information as possible where we have high dim dataset.
 
-## Day 52 of #66DaysofML.
+## Day 53 of #66DaysofML.
 **Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I delved deeper into dimension reduction approaches. I got to learn about Principal Component Analysis (PCA). It is the most popular approach of Dimension Reduction. First we identify the hyperplane closest to the data and project them accordingly. We select the axis which preserve the maximum amount of variance as it loses less information of the data. Then I implemented these learning using Scikit Learn. I learned further more about explained Variance Ratio, How to choose the right number of dimension and to recover reduced data using inverse_tranform method.
+
+## Day 54 of #66DaysofML.
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, I got insights on Randomized PCA, Incremental PCA, Kernel PCA and used GridSearch to select kernel and fine tune the best parameters. We implement Randomized PCA in scikit learn by setting svd_solver to randomized. Incremnetal PCA split the training set to mini barches and feed on IPCA algorithm. Kernel PCA is used to perform non linear complex projection for dimensionality reduction.
