@@ -405,3 +405,7 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 54 of #66DaysofML.
 **Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, I got insights on Randomized PCA, Incremental PCA, Kernel PCA and used GridSearch to select kernel and fine tune the best parameters. We implement Randomized PCA in scikit learn by setting svd_solver to randomized. Incremnetal PCA split the training set to mini barches and feed on IPCA algorithm. Kernel PCA is used to perform non linear complex projection for dimensionality reduction.
+
+## Day 55 of #66DaysofML.
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I got insights on LLE: Locally linear embedding which is very powerful nonlinear dimensionality reduction technique. I implemented this technique using scikit learn. Furthermore, I explored more on Unsupervised learning Technique and I learned aboyt Clustering in detail. Clustering is the process of grouping similar data points together in order to identify patterns and gain insights from data. 
