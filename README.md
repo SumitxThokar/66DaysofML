@@ -433,3 +433,11 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 60 of #66DaysofML.
 **Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I learned about Backpropagation algorithm, popular activation function and why activation function is used. Backpropagation can be split into 3 parts: forward pass, for each instance the algo makes a prediction. reverse pass, measure the error and goes through each layer in reverse to measure the error contribution from each connection. And Gradient Descent step, slightly tweks the connection cuts to reduce the error. Next, I learned about hyperbolic tangent function tanh and Rectified Linear Unit function ReLU. Finally learned activation function are used to solve very complex problem. 
+
+## Day 61 of #66DaysofML.
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I learned about classification and learned to train and implement MLPs with Keras. A Multi-Layer Perceptron (MLP) is a type of feedforward neural network commonly used for classification tasks. It consists of an input layer, one or more hidden layers, and an output layer. To implement an MLP with Keras, you can follow these steps:
+- Import the necessary libraries.
+- Define the model using the Sequential API.
+- Compile the model.
+- Fit the model to the training data.
