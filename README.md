@@ -441,3 +441,11 @@ The CART training algo is the way how Decision tree works. First it splits the t
 - Define the model using the Sequential API.
 - Compile the model.
 - Fit the model to the training data.
+
+## Day 62 of #66DaysofML.
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I implemented the learning of Neural Networks and Sequential API in an assignment. It was about buliding a Regression MLPs using Sequential API for California Housing Dataset. Outline of the work:
+- Import the necessary libraries.
+- Define the model using the Sequential API.
+- Compile the model.
+- Fit the model to the training data.
