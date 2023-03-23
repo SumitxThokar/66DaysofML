@@ -449,3 +449,7 @@ The CART training algo is the way how Decision tree works. First it splits the t
 - Define the model using the Sequential API.
 - Compile the model.
 - Fit the model to the training data.
+
+## Day 63 of #66DaysofML.
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, I got to learn about Subclassing API. It is best where models involve loops, varying shapes, conditional branching (iterative programming style). Then I learned about saving and restoring the model, It simple as it sounds. Furthermore I got revision on callback function. A callback function is a function that is passed as an argument to another function and is executed when the parent function completes its task. It is often used in asynchronous programming to handle the result of an operation or to perform some action after a specific event occurs.
