@@ -1,4 +1,4 @@
-
+d
 ![MachineLearning](https://github.com/SumitxThokar/MachineLearning/blob/main/images/pexels-tara-winstead-8386434.jpg)
 # **Machine Learning**
 | **Books and Resources** | **Status of Completion** |
@@ -457,3 +457,7 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 64 of #66DaysofML.
 **Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning Today, I was introduced to the world of Time Series. During the session, I learned about the different types of Time Series, including examples like stock prices, weather forecasting, and historical trends. I also learned about Univariate and Multivariate Time Series and how machine learning techniques can be used to analyze and predict future values, impute missing data, detect anomalies, and identify patterns in the data. Some of the common patterns in time series data include trends, seasonality, both trend and seasonality, random variations, autocorrelated data, and non-stationary data.
+
+## Day 65 of #66DaysofML
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning Today, I had an exciting day working on assignments related to Time Series analysis. During the session, I implemented several functions to split the data, create forecasts, and evaluate the quality of those forecasts. These functions are essential for Time Series forecasting and analysis, and I'm thrilled to have gained hands-on experience in building them.
