@@ -1,4 +1,3 @@
-d
 ![MachineLearning](https://github.com/SumitxThokar/MachineLearning/blob/main/images/pexels-tara-winstead-8386434.jpg)
 # **Machine Learning**
 | **Books and Resources** | **Status of Completion** |
@@ -461,3 +460,7 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 65 of #66DaysofML
 **Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning Today, I had an exciting day working on assignments related to Time Series analysis. During the session, I implemented several functions to split the data, create forecasts, and evaluate the quality of those forecasts. These functions are essential for Time Series forecasting and analysis, and I'm thrilled to have gained hands-on experience in building them.
+
+## Day 66 of #66DaysofML.
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning Today, I had a great learning experience exploring how to apply Neural Networks on Time Series data. During the session, I learned how to prepare Time Series features and labels to train a model using the windowing technique. This technique involves grouping consecutive measurement values into one feature, and the next measurement becomes the label.
