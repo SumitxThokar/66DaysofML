@@ -464,3 +464,8 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 66 of #66DaysofML.
 **Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning Today, I had a great learning experience exploring how to apply Neural Networks on Time Series data. During the session, I learned how to prepare Time Series features and labels to train a model using the windowing technique. This technique involves grouping consecutive measurement values into one feature, and the next measurement becomes the label.
+
+
+## Day 67 of #66DaysofML
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning Today, I trained a single layer neural network with time series data. During the session, I learned how to prepare time series data and build a neural network with a single layer. I also gained insights on how to fine-tune the hyperparameters to optimize the performance of the model.
