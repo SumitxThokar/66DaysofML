@@ -469,3 +469,7 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 67 of #66DaysofML
 **Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning Today, I trained a single layer neural network with time series data. During the session, I learned how to prepare time series data and build a neural network with a single layer. I also gained insights on how to fine-tune the hyperparameters to optimize the performance of the model.
+
+## Day 68 of #66DaysofML
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning Today, I trained a deep neural network with time series data and optimized its performance by fine-tuning the learning rate. During the session, I learned how to build a deep neural network with multiple layers and prepare time series data for training. I also gained insights on how to select the optimal learning rate to speed up the convergence of the model's weights.
