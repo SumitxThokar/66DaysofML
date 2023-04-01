@@ -477,3 +477,11 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 69 of #66DaysofML
 **Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I built a stacked RNN with simpleRNN layers for an assignment, reshaped input and scaled output using Lambda layers, used Huber loss for training the model and generated model predictions using batched data windows.
+
+## Day 70 of #66DaysofML
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, TToday I was able to: <br>
+- Experimented with Recurrent Neural Networks<br>
+- Used LSTM layers to stack on the architecture of the previous lab<br>
+- Explored the impact of using LSTM layers for time series forecasting<br>
+- Evaluated the forecast performance using appropriate metrics
