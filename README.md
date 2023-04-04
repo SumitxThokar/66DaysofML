@@ -501,3 +501,6 @@ The CART training algo is the way how Decision tree works. First it splits the t
 - Explored the power of combining convolutional layers with recurrent layers
 - Learned about the benefits of using CNN-LSTM for processing sequential data.
 
+## Day 73 of #66DaysofML
+**Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I was introduced to the sunspots dataset, which provides a monthly record of sunspot numbers from January 1749 to July 2018. During the session, I learned how to use deep neural networks to predict sunspots. I started by building a deep neural network with only fully connected layers and trained it on the sunspots dataset. Later, I combined convolutional neural networks (CNNs), deep neural networks (DNNs), and recurrent neural networks (RNNs) with long short-term memory (LSTM) cells to build a more complex neural network for sunspot prediction.
