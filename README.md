@@ -508,3 +508,8 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 74 of #66DaysofML
 **Course**:**Hands on Machine Learning with scikit Learn, Keras & TensorFlow** <br>
 :large_blue_diamond: On my journey of learning Machine Learning Today, I worked on an assignment that involved using different deep learning models to predict daily minimum temperature in Melbourne from 1980 onwards. I used recurrent neural networks (RNNs), convolutional neural networks (CNNs), and long short-term memory (LSTM) cells to build and optimize the models. During the assignment, I started by taking an overview of the dataset, visualizing the temperature trends using plots, parsing and preprocessing the data to make it suitable for training the models. After that, I defined the model architectures and fine-tuned the learning rate to optimize the models' performance.
+
+
+## Day 75 of #66DaysofML
+**Course**:**Fastai** <br>
+:large_blue_diamond: On my journey of learning Machine Learning, Today I got started with Fastai course oo Deep learning. The Fastai course is known for its practical approach to teaching deep learning, and I am eager to dive in and start building and training neural networks. Excited for the upcoming days.
