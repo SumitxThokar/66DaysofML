@@ -513,3 +513,8 @@ The CART training algo is the way how Decision tree works. First it splits the t
 ## Day 75 of #66DaysofML
 **Course**:**Fastai** <br>
 :large_blue_diamond: On my journey of learning Machine Learning, Today I got started with Fastai course oo Deep learning. The Fastai course is known for its practical approach to teaching deep learning, and I am eager to dive in and start building and training neural networks. Excited for the upcoming days.
+
+
+## Day 76 of #66DaysofML
+**Course**:**Practical Deep Learning for Coders 2022 with Fastai** <br>
+Today, I started learning and completed the first lesson of Practical Deep Learning for Coders 2022. The course provided an introduction to the fastai library and its philosophy, which emphasizes simplicity, flexibility, and usability. During the lesson, I learned the basics of Jupyter notebooks and Python programming, including data types, control flow, functions, and libraries. Additionally, I gained an overview of deep learning concepts, including artificial neural networks, backpropagation, and activation functions. I also had the opportunity to build a basic neural network using the fastai library, including data loading and preprocessing, model definition, training, and evaluation. Furthermore, we discussed some of the key challenges and limitations of deep learning, such as overfitting, data bias, and interpretability, and the need for careful evaluation and testing of models.
