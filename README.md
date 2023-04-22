@@ -521,3 +521,7 @@ Today, I started learning and completed the first lesson of Practical Deep Learn
 
 ## Day 77 of #66DaysofML
 Today, I dived into the fascinating world of Optical Character Recognition (OCR). I started with an introduction to OCR and installed the necessary libraries to work with text recognition in Python. During the session, I learned how to open an image in Python using Pillow (PIL) library, and processed the image for text OCR using OpenCV. I performed various image processing techniques such as inverting, binarization, noise removal, dilation, erosion, rotation, deskewing, and adding/removing borders to prepare the image for text extraction. In the later part of the session, I was introduced to pytesseract, a popular OCR tool, which allowed me to extract the text from the processed image and convert it into a string.
+
+
+## Day 78 of #66DaysofML
+Today, I delved into the powerful capabilities of OpenCV for working with bounding boxes and named entities. During the session, I learned how to use OpenCV to draw bounding boxes around objects or regions of interest (ROI) in images or videos. I explored various techniques such as contour detection, bounding box creation, and visualization, which can be used for tasks such as object detection, object tracking, and image segmentation.
