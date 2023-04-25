@@ -525,3 +525,6 @@ Today, I dived into the fascinating world of Optical Character Recognition (OCR)
 
 ## Day 78 of #66DaysofML
 Today, I delved into the powerful capabilities of OpenCV for working with bounding boxes and named entities. During the session, I learned how to use OpenCV to draw bounding boxes around objects or regions of interest (ROI) in images or videos. I explored various techniques such as contour detection, bounding box creation, and visualization, which can be used for tasks such as object detection, object tracking, and image segmentation.
+
+## Day 79 of #66DaysofML
+Today, I delved into the intricate world of feature engineering, understanding its various aspects such as feature transformation, feature construction, feature selection, and feature extraction. During the session, I gained insights on how to perform feature scaling, which is a crucial step in feature engineering. I learned about different techniques such as min-max scaling, z-score normalization, and robust scaling, and how they can help in bringing the features to a common scale and prevent biases in machine learning models.
