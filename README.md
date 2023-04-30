@@ -529,13 +529,13 @@ Today, I delved into the powerful capabilities of OpenCV for working with boundi
 ## Day 79 of #66DaysofML
 Today, I delved into the intricate world of feature engineering, understanding its various aspects such as feature transformation, feature construction, feature selection, and feature extraction. During the session, I gained insights on how to perform feature scaling, which is a crucial step in feature engineering. I learned about different techniques such as min-max scaling, z-score normalization, and robust scaling, and how they can help in bringing the features to a common scale and prevent biases in machine learning models.
 
-## Day 80 of #100daysofcode
+## Day 80 of #66DaysofML
 Today, I focused on Function Transformation and Power Transformation in detail for data preprocessing. Function Transformation involves applying mathematical functions to the features in the dataset to change their distributions. I learned about Log, Reciprocal, Square root transformation, and their applications. Next, I delved deeper into Power Transformation, which is used to transform non-normally distributed data to make it more Gaussian-like. Sklearn offers two methods of power transformation: Box-Cox and Yeo-Johnson. I learned about how to apply these methods to transform data and improve its distribution for regression problems. 
 Additionally, I learned about the importance of checking the distribution of data for regression problems using tools like QQ plot and distribution chart, and how to normalize the data using power transformers if required.
 
-## Day 81 of #100daysofcode
+## Day 81 of #66DaysofML
 Today, I learned about binning and binarization techniques in data preprocessing. Binning is a method used to convert numerical data into categorical data, and is especially useful when working with machine learning algorithms that require categorical input. I delved into the details of discretization/binning, covering the three main types: unsupervised, supervised, and custom. Under unsupervised binning, I explored the uniform, quantile, and k-means methods and implemented them using the Scikit-learn library.
 In addition to binning, I also learned about binarization, another technique to convert continuous data into binary data, and the importance of feature scaling before applying binarization.
 
-## Day 82 of #100daysofcode
+## Day 82 of #66DaysofML
 Today, I learned how to handle mixed variables and date-time variables in my data. It was an interesting session where I learned about different techniques such as feature engineering and feature extraction to process mixed variables. I also got to know about the importance of handling date-time variables as they can provide valuable insights into trends and patterns in the data.
