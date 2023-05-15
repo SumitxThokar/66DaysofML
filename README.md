@@ -559,4 +559,8 @@ Today, I deepened my understanding of Neural Networks. I learned about activatio
 ## Day 89 of #66DaysofML
 Today, I learned about Computer Vision Annotation Tool (CVAT), which is an open-source web-based annotation tool for image and video datasets.
 During the session, I explored how to use CVAT for creating datasets with different types of annotations, including bounding boxes, polygons, and key points. I also learned how to annotate video frames using CVAT.
-In addition, I delved into the process of deploying CVAT locally using Docker, which enables me to use CVAT in my own development environment without requiring any external cloud-based services
+In addition, I delved into the process of deploying CVAT locally using Docker, which enables me to use CVAT in my own development environment without requiring any external cloud-based services.
+
+## Day 90 of #66DaysofML
+ Today, I delved into the fascinating world of feature extraction and learned about the curse of dimensionality, as well as the powerful technique of Principal Component Analysis (PCA). During the session, I gained a comprehensive understanding of feature extraction and its importance in machine learning. I explored the challenges posed by the curse of dimensionality, where datasets with high-dimensional features can lead to increased computational complexity and overfitting.
+In addition, I dived deep into the inner workings of Principal Component Analysis (PCA). I learned how PCA can effectively reduce the dimensionality of a dataset while preserving the essential information within the data. By identifying the principal components that capture the most variance in the data, PCA enables us to transform the data to a lower-dimensional space, making it more manageable and conducive to accurate modeling.
