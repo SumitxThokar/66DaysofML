@@ -571,3 +571,27 @@ During the session, I discovered the significance of NLP in unlocking the power 
 In addition, I delved into the diverse range of tasks that can be accomplished with NLP, including text classification, named entity recognition, part-of-speech tagging, and sentiment analysis. These tasks play a crucial role in extracting meaningful insights from textual data.
 Furthermore, I explored different approaches employed in NLP, such as rule-based approaches, statistical methods, and modern deep learning techniques like recurrent neural networks (RNNs) and transformer models.
 However, it is important to note that NLP comes with its own set of challenges. These challenges include handling language ambiguity, dealing with out-of-vocabulary words, addressing syntactic and semantic complexities, and addressing cultural and contextual variations in language usage.
+
+## Day 92 of #66DaysofML
+Today, I delved into the intricacies of the NLP pipeline, which encompasses a series of essential steps to process and analyze text data in a systematic manner.
+During the session, I gained a comprehensive understanding of each step in the NLP pipeline and its significance in the overall text analysis process.
+Here's a breakdown of the steps involved in the NLP pipeline: <br>
+1️. Data Acquisition: I explored various methods of acquiring text data, understanding the diverse sources and formats it can come in. This step also involves considering data collection conditions, such as the size of the dataset and potential biases. <br>
+2️. Text Preparation: I learned about the crucial task of preparing text data for analysis. This involves cleaning the data by removing unnecessary characters, converting text to lowercase, handling special characters, and performing other preprocessing tasks like tokenization, stop word removal, and stemming or lemmatization. <br>
+3️. Feature Engineering: I explored techniques to extract meaningful features from text data. This includes methods such as bag-of-words representation, TF-IDF (Term Frequency-Inverse Document Frequency), word embeddings like Word2Vec or GloVe, and more advanced approaches like BERT or transformer-based models. <br>
+4️. Modeling: I delved into building models for NLP tasks, such as text classification, sentiment analysis, or named entity recognition. This step involves selecting appropriate algorithms, training the models, and evaluating their performance using metrics like accuracy, precision, recall, or F1-score. <br>
+5️. Deployment: Lastly, I learned about deploying NLP models into production. This includes setting up an infrastructure to serve the models, monitoring their performance, and periodically updating them to ensure their relevance over time. <br>
+
+## Day 93 of #66DaysofML
+Today, I dived deep into the realm of text processing in NLP, exploring various techniques to preprocess and transform text data for effective analysis.
+During the session, I gained an in-depth understanding of the intricacies involved in text processing and learned a plethora of techniques to clean and prepare text data for NLP tasks.
+Here are some of the techniques I delved into: <br>
+1️. Lowercasing: I explored the importance of converting text to lowercase, ensuring consistent representation and avoiding duplication based on case sensitivity. <br>
+2️. Removing HTML Tags and URLs: I learned how to effectively remove HTML tags and URLs from text data, eliminating any unnecessary noise or irrelevant information. <br>
+3️. Punctuation Removal: I discovered the significance of removing punctuation marks from text, as they often carry little semantic meaning and can interfere with downstream NLP tasks. <br>
+4️. Spelling Correction: I explored techniques to correct spelling errors in text data, enhancing the accuracy and reliability of subsequent analyses. <br>
+5️. Chatword Treatment: I delved into the realm of handling chat language or abbreviations commonly found in informal text, ensuring proper normalization and understanding. <br>
+6️. Stopword Removal: I learned about the importance of removing common stopwords, such as "the," "is," and "and," which carry minimal information and can hinder NLP tasks. <br>
+7️. Handling Emojis: I discovered methods to handle emojis and emoticons present in text data, considering their impact on sentiment analysis and overall text understanding.  <br>
+8️. Tokenization: I explored various tokenization techniques using libraries like Spacy, NLTK, regular expressions, and simple split functions, breaking down text into meaningful units like words or sentences. <br>
+9️. Stemming and Lemmatization: I delved into the process of stemming and lemmatization, which aim to reduce words to their root form to handle variations and improve text normalization.
