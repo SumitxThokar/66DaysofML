@@ -595,3 +595,34 @@ Here are some of the techniques I delved into: <br>
 7️. Handling Emojis: I discovered methods to handle emojis and emoticons present in text data, considering their impact on sentiment analysis and overall text understanding.  <br>
 8️. Tokenization: I explored various tokenization techniques using libraries like Spacy, NLTK, regular expressions, and simple split functions, breaking down text into meaningful units like words or sentences. <br>
 9️. Stemming and Lemmatization: I delved into the process of stemming and lemmatization, which aim to reduce words to their root form to handle variations and improve text normalization.
+
+## Day 94 of #100daysofcode
+Today, I delved into the fascinating world of feature extraction from text, also known as text representation or text vectorization. I learned why it is essential, the challenges involved, and the core idea behind transforming text into numerical representations. <br>
+During the session, I explored the significance of text vectorization and its role in enabling machine learning models to process and analyze textual data effectively. <br>
+Here are the key aspects I focused on:
+1️. Need for Text Vectorization: I learned why converting text into numerical representations is crucial for machine learning tasks. It allows us to leverage the power of mathematical operations and algorithms on text data, facilitating pattern recognition and analysis.
+2️. Challenges in Text Vectorization: I explored the difficulties encountered in text vectorization, such as handling variable-length text, capturing semantic meanings, addressing vocabulary growth, and preserving contextual information.
+3️. Core Idea behind Text Vectorization: I gained insights into the core idea of text vectorization, which involves transforming text into fixed-length numerical representations, preserving important information while discarding irrelevant details.
+4️. One-Hot Encoding (OHE): I learned about the widely used technique of one-hot encoding, where each word or feature in the text is represented by a binary vector, indicating its presence or absence in the document.
+5️. Bag-of-Words (BoW): I explored the bag-of-words approach, which represents text as a collection of unique words and their frequencies in the document. This technique disregards grammar and word order but captures the overall word frequency information.
+<br> In addition to theoretical knowledge, I also implemented the bag-of-words technique using scikit-learn, a popular machine learning library. This hands-on experience allowed me to apply the concepts I learned and gain practical insights into text vectorization.
+
+## Day 95 of #100daysofcode
+Today, I delved into the world of n-grams, a powerful text vectorization technique in NLP, and explored its implementation in scikit-learn. I also gained a comprehensive understanding of the tf-idf (Term Frequency-Inverse Document Frequency) technique.
+During the session, I learned about the concept, benefits, and drawbacks of n-grams and how they can be utilized to represent text data effectively. Additionally, I delved into the details of the tf-idf technique, a widely used method for text representation. <br>
+Key Takeaways:
+N-grams offer a powerful way to capture the context and relationships between adjacent words in text data.
+The bag-of-ngrams technique provides a comprehensive representation of text by considering the occurrences of different n-grams.
+TF-IDF is a useful technique that weighs the importance of terms in a document based on their frequency and rarity across the corpus.
+
+ ## Day 96 of #100daysofcode
+Today, I explored the fascinating world of word2vec techniques, including its various types and modeling approaches. I also gained insights into key strategies for effectively utilizing word2vec in machine learning and deep learning applications. <br>
+During the session, I focused on understanding the fundamentals of word2vec and its practical implementation considerations. <br>
+ Here's what I covered:
+- Word2Vec Techniques: I learned about word2vec, a popular technique for learning word embeddings, which represent words as dense numerical vectors capturing their semantic meanings. I also explored different types of word2vec models, including pretrained models that leverage large-scale text corpora.
+- Modeling Approaches: I delved into various modeling techniques used with word2vec, including heuristic approaches, API-based implementations, and machine learning (ML) and deep learning (DL) approaches. Each approach has its own strengths and considerations based on the specific task and available resources.
+- Key Takeaways:
+Utilize ensemble learning techniques: Combining multiple word2vec models or different embedding techniques can enhance the representation power and capture diverse aspects of textual data.
+Start with ML before DL: When working with word2vec, it can be beneficial to start with machine learning models before diving into complex deep learning architectures. ML models are often easier to interpret and require fewer computational resources.
+Consider balancing the dataset: In the context of word2vec, it is important to either use a balanced dataset or employ techniques to address class imbalance. This ensures that the learned word embeddings are not biased towards specific classes or categories.
+Leverage heuristic features: Alongside word2vec embeddings, incorporating additional heuristic features based on domain knowledge or linguistic patterns can further enhance the performance of NLP models.
