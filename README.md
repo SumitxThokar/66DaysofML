@@ -596,7 +596,7 @@ Here are some of the techniques I delved into: <br>
 8️. Tokenization: I explored various tokenization techniques using libraries like Spacy, NLTK, regular expressions, and simple split functions, breaking down text into meaningful units like words or sentences. <br>
 9️. Stemming and Lemmatization: I delved into the process of stemming and lemmatization, which aim to reduce words to their root form to handle variations and improve text normalization.
 
-## Day 94 of #100daysofcode
+## Day 94 of #66DaysofML
 Today, I delved into the fascinating world of feature extraction from text, also known as text representation or text vectorization. I learned why it is essential, the challenges involved, and the core idea behind transforming text into numerical representations. <br>
 During the session, I explored the significance of text vectorization and its role in enabling machine learning models to process and analyze textual data effectively. <br>
 Here are the key aspects I focused on:
@@ -607,7 +607,7 @@ Here are the key aspects I focused on:
 5️. Bag-of-Words (BoW): I explored the bag-of-words approach, which represents text as a collection of unique words and their frequencies in the document. This technique disregards grammar and word order but captures the overall word frequency information.
 <br> In addition to theoretical knowledge, I also implemented the bag-of-words technique using scikit-learn, a popular machine learning library. This hands-on experience allowed me to apply the concepts I learned and gain practical insights into text vectorization.
 
-## Day 95 of #100daysofcode
+## Day 95 of #66DaysofML
 Today, I delved into the world of n-grams, a powerful text vectorization technique in NLP, and explored its implementation in scikit-learn. I also gained a comprehensive understanding of the tf-idf (Term Frequency-Inverse Document Frequency) technique.
 During the session, I learned about the concept, benefits, and drawbacks of n-grams and how they can be utilized to represent text data effectively. Additionally, I delved into the details of the tf-idf technique, a widely used method for text representation. <br>
 Key Takeaways:
@@ -615,7 +615,7 @@ N-grams offer a powerful way to capture the context and relationships between ad
 The bag-of-ngrams technique provides a comprehensive representation of text by considering the occurrences of different n-grams.
 TF-IDF is a useful technique that weighs the importance of terms in a document based on their frequency and rarity across the corpus.
 
- ## Day 96 of #100daysofcode
+ ## Day 96 of #66DaysofML
 Today, I explored the fascinating world of word2vec techniques, including its various types and modeling approaches. I also gained insights into key strategies for effectively utilizing word2vec in machine learning and deep learning applications. <br>
 During the session, I focused on understanding the fundamentals of word2vec and its practical implementation considerations. <br>
  Here's what I covered:
@@ -626,3 +626,28 @@ Utilize ensemble learning techniques: Combining multiple word2vec models or diff
 Start with ML before DL: When working with word2vec, it can be beneficial to start with machine learning models before diving into complex deep learning architectures. ML models are often easier to interpret and require fewer computational resources.
 Consider balancing the dataset: In the context of word2vec, it is important to either use a balanced dataset or employ techniques to address class imbalance. This ensures that the learned word embeddings are not biased towards specific classes or categories.
 Leverage heuristic features: Alongside word2vec embeddings, incorporating additional heuristic features based on domain knowledge or linguistic patterns can further enhance the performance of NLP models.
+
+
+## Day 97 of #66DaysofML
+Today, I took on the exciting challenge of developing an SMS spam classifier using the SMS Spam Collection dataset acquired from Kaggle. The objective was to build a robust prediction model that accurately distinguishes between spam and legitimate (ham) text messages. I leveraged the knowledge and skills I acquired over the past few days, including data cleaning, text preprocessing, text vectorization, and modeling. <br>
+During the session, I focused on the following steps to create the SMS spam classifier:
+1️. Data Acquisition: I obtained the SMS Spam Collection dataset from Kaggle, which serves as a valuable resource for training and evaluating the spam classifier.
+2️. Data Cleaning: I performed data cleaning tasks to ensure the dataset is free from any inconsistencies, missing values, or irrelevant information. This step is crucial to maintain the integrity and quality of the data.
+3️. Text Preprocessing: I applied various text preprocessing techniques, such as removing stop words, punctuation, and special characters, converting text to lowercase, and handling abbreviations or contractions.
+4️. Text Vectorization: I employed text vectorization techniques, such as bag-of-words, to convert the preprocessed text into numerical representations that machine learning models can process effectively.
+5️. Modeling: I explored different machine learning algorithms, such as Naive Bayes, Support Vector Machines, or Random Forests, to build the SMS spam classifier model. I trained and evaluated the models using appropriate evaluation metrics to assess their performance. <br>
+Through this project, I had the opportunity to apply the knowledge I gained in previous days, such as data cleaning, text preprocessing, and text vectorization, to solve a real-world problem of classifying SMS messages as spam or legitimate.
+
+## Day 98 of #66DaysofML
+Today, I dived into the fascinating world of Part-of-Speech (POS) tagging and its applications in complex natural language processing (NLP) models. I explored the concept of POS tagging, learned how to tag parts of speech using Spacy, and delved into the inner workings of POS tagging algorithms such as Hidden Markov Models and Viterbi algorithm. <br>
+During the session, I focused on the following aspects of POS tagging:
+1️. Introduction to POS Tagging: I gained a comprehensive understanding of POS tagging, which involves assigning grammatical tags to each word in a given sentence. POS tags provide valuable linguistic information about the role and syntactic category of each word in a sentence.
+2️. Application in Complex Models: I explored how POS tagging plays a crucial role in various complex NLP models, such as named entity recognition, sentiment analysis, machine translation, and syntactic parsing. POS tags serve as important features or inputs for these models, enabling them to better understand and analyze text.
+3️. POS Tagging with Spacy: I learned how to perform POS tagging using Spacy, a popular NLP library. Spacy provides pre-trained models that can be utilized to automatically assign POS tags to words in a given text.
+4️. Working of POS Tagging Algorithms: I delved into the inner workings of POS tagging algorithms, particularly Hidden Markov Models (HMM) and the Viterbi algorithm. These algorithms utilize statistical methods and linguistic patterns to determine the most likely POS tags for words in a sentence. <br>
+Today's exploration of POS tagging deepened my understanding of its significance in NLP applications and provided insights into the implementation and functioning of POS tagging algorithms. <br>
+Key Takeaways:
+- POS tagging is a fundamental task in NLP that assigns grammatical tags to words.
+- POS tags are used in various complex NLP models for tasks like named entity recognition and sentiment analysis.
+- Spacy provides pre-trained models for performing POS tagging.
+- Hidden Markov Models and the Viterbi algorithm are commonly used algorithms for POS tagging.
