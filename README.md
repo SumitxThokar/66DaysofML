@@ -653,7 +653,7 @@ Key Takeaways:
 - Hidden Markov Models and the Viterbi algorithm are commonly used algorithms for POS tagging.
 
 
-## Day 99, 100, and 101 of #100daysofcode
+## Day 99, 100, and 101 of #66DaysofML
 Over the past three days, I immersed myself in the Quora Duplicate Question Classifier project. The aim of this machine learning project is to identify duplicate questions on the Quora platform. Quora is a widely used question-and-answer website that fosters knowledge sharing among its community of users. However, duplicate questions can create clutter and diminish the user experience by providing redundant content. Hence, the development of an efficient system that can automatically detect and flag duplicate questions is of great value. This project harnesses the power of natural language processing (NLP) to tackle this challenge.
 #### Key Takeaways:
 - The Quora Duplicate Question Classifier project aims to identify duplicate questions on the Quora platform.
@@ -662,7 +662,7 @@ Over the past three days, I immersed myself in the Quora Duplicate Question Clas
 - The development of a machine learning model facilitates the accurate classification of questions as duplicate or non-duplicate.
 - Evaluating and fine-tuning the model's performance is essential for optimal results.
 
-## Day 102 of #100daysofcode
+## Day 102 of #66DaysofML
 Dived into the fascinating world of Handwritten Digit Classification using Artificial Neural Networks (ANN) and the MNIST dataset. <br>
 During today's session, I focused on the following:
 1️. Project Overview: Explored the task of building a Handwritten Digit Classifier, which involves training a model to accurately identify handwritten digits from the famous MNIST dataset.
